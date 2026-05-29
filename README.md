@@ -156,7 +156,7 @@ Este projeto se posiciona exatamente nessa interseção: **Financial Operations 
 
 ## 👤 Autor
 
-**[Vinicius Borges]** — Profissional de FP&A e Controladoria com experiência em fechamento, conciliações, controle orçamentário e análise de variações. Posicionamento na interseção entre Financial Operations, Process Improvement e IA aplicada a finanças.
+**Vinicius Borges** — Profissional de FP&A e Controladoria com experiência em fechamento, conciliações, controle orçamentário e análise de variações. Posicionamento na interseção entre Financial Operations, Process Improvement e IA aplicada a finanças.
 
 - 💼 [LinkedIn](https://linkedin.com/in/viniciusagborges)
 - ✉️ [Email](mailto:borgesavvg95@hotmail.com)
