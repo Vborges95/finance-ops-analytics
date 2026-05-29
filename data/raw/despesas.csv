@@ -1,0 +1,706 @@
+lancamento_id,data_competencia,data_pagamento,ano_mes,categoria,centro_custo,descricao,valor,recorrencia,fornecedor,nota_fiscal,aprovado_por
+EXP-000001,2023-01-16,2023-01-29,2023-01,pessoal,administrativo,Pessoal — Administrativo,27719.13,mensal,Oliveira,NF-40964,financeiro
+EXP-000002,2023-01-24,2023-02-08,2023-01,pessoal,comercial,Pessoal — Comercial,13995.72,mensal,Santos Azevedo S/A,NF-60063,financeiro
+EXP-000003,2023-01-06,2023-01-16,2023-01,pessoal,logistica,Pessoal — Logistica,2853.85,mensal,Vargas da Rocha S/A,NF-27979,diretoria
+EXP-000004,2023-01-22,2023-01-29,2023-01,pessoal,logistica,Pessoal — Logistica,3155.7,mensal,Brito Garcia Ltda.,NF-89589,diretoria
+EXP-000005,2023-01-13,2023-01-28,2023-01,pessoal,logistica,Pessoal — Logistica,2927.91,mensal,Porto,NF-43916,gestão
+EXP-000006,2023-01-03,2023-01-10,2023-01,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Castro,NF-85777,financeiro
+EXP-000007,2023-01-09,2023-01-13,2023-01,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Fogaça,NF-11029,financeiro
+EXP-000008,2023-01-16,2023-01-27,2023-01,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Rios da Mata e Filhos,NF-61507,gestão
+EXP-000009,2023-01-03,2023-01-12,2023-01,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Pereira e Filhos,NF-42533,financeiro
+EXP-000010,2023-01-27,2023-02-05,2023-01,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Nascimento Siqueira S.A.,NF-13803,financeiro
+EXP-000011,2023-01-19,2023-02-03,2023-01,marketing,digital,Marketing — Digital,14164.74,mensal,Martins Garcia Ltda.,NF-83534,diretoria
+EXP-000012,2023-01-20,2023-01-31,2023-01,marketing,trade,Marketing — Trade,3681.65,mensal,Rodrigues Duarte S/A,NF-41583,gestão
+EXP-000013,2023-01-24,2023-02-07,2023-01,logistica,frete_saida,Logistica — Frete Saida,6086.08,mensal,Andrade Dias - ME,NF-23540,gestão
+EXP-000014,2023-01-09,2023-01-14,2023-01,logistica,armazenagem,Logistica — Armazenagem,1030.3,mensal,Azevedo,NF-80213,diretoria
+EXP-000015,2023-01-01,2023-01-12,2023-01,logistica,armazenagem,Logistica — Armazenagem,995.91,mensal,Nunes Silva Ltda.,NF-63947,gestão
+EXP-000016,2023-01-08,2023-01-08,2023-01,logistica,armazenagem,Logistica — Armazenagem,881.66,mensal,Rezende Monteiro - ME,NF-33992,gestão
+EXP-000017,2023-01-25,2023-02-04,2023-01,tecnologia,plataformas,Tecnologia — Plataformas,1497.89,mensal,Casa Grande,NF-29473,financeiro
+EXP-000018,2023-01-05,2023-01-06,2023-01,tecnologia,plataformas,Tecnologia — Plataformas,1552.9,mensal,Carvalho,NF-16402,diretoria
+EXP-000019,2023-01-21,2023-01-23,2023-01,tecnologia,plataformas,Tecnologia — Plataformas,1464.27,mensal,Souza Novais - EI,NF-62970,diretoria
+EXP-000020,2023-01-28,2023-02-08,2023-01,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Souza,NF-22183,diretoria
+EXP-000021,2023-01-12,2023-01-24,2023-01,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Pacheco,NF-44298,gestão
+EXP-000022,2023-01-16,2023-01-17,2023-01,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Fonseca,NF-34680,financeiro
+EXP-000023,2023-01-17,2023-01-31,2023-01,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1365.44,mensal,Carvalho Moraes - ME,NF-11956,financeiro
+EXP-000024,2023-01-24,2023-01-25,2023-01,administrativo,juridico,Administrativo — Juridico,1609.1,trimestral,Sá S/A,NF-97398,gestão
+EXP-000025,2023-01-18,2023-01-26,2023-01,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Cassiano e Filhos,NF-31582,financeiro
+EXP-000026,2023-01-22,2023-02-02,2023-01,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Vieira Rodrigues - ME,NF-90961,diretoria
+EXP-000027,2023-01-01,2023-01-05,2023-01,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Gomes - ME,NF-19057,diretoria
+EXP-000028,2023-01-18,2023-01-19,2023-01,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Moura,NF-65780,gestão
+EXP-000029,2023-01-03,2023-01-10,2023-01,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Novaes,NF-54892,gestão
+EXP-000030,2023-01-13,2023-01-19,2023-01,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Rodrigues e Filhos,NF-99750,gestão
+EXP-000031,2023-01-28,2023-02-01,2023-01,outros,varios,Outros — Varios,374.64,mensal,Rodrigues - EI,NF-28720,diretoria
+EXP-000032,2023-01-22,2023-01-31,2023-01,outros,varios,Outros — Varios,416.79,mensal,Vargas,NF-66719,financeiro
+EXP-000033,2023-02-11,2023-02-22,2023-02,pessoal,administrativo,Pessoal — Administrativo,14632.86,mensal,Camargo,NF-63942,financeiro
+EXP-000034,2023-02-12,2023-02-27,2023-02,pessoal,administrativo,Pessoal — Administrativo,14518.45,mensal,Lopes,NF-96088,diretoria
+EXP-000035,2023-02-27,2023-03-06,2023-02,pessoal,comercial,Pessoal — Comercial,13955.35,mensal,Marques Abreu e Filhos,NF-54303,gestão
+EXP-000036,2023-02-28,2023-03-02,2023-02,pessoal,logistica,Pessoal — Logistica,4637.45,mensal,Montenegro,NF-72884,financeiro
+EXP-000037,2023-02-15,2023-02-23,2023-02,pessoal,logistica,Pessoal — Logistica,4380.01,mensal,Montenegro Caldeira e Filhos,NF-82019,diretoria
+EXP-000038,2023-02-20,2023-02-25,2023-02,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Porto,NF-71234,financeiro
+EXP-000039,2023-02-12,2023-02-20,2023-02,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Cassiano Freitas S.A.,NF-46466,diretoria
+EXP-000040,2023-02-15,2023-02-22,2023-02,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Peixoto Ltda.,NF-51334,financeiro
+EXP-000041,2023-02-02,2023-02-15,2023-02,marketing,digital,Marketing — Digital,5036.17,mensal,Almeida,NF-75584,diretoria
+EXP-000042,2023-02-10,2023-02-25,2023-02,marketing,digital,Marketing — Digital,4015.66,mensal,Fonseca Ltda.,NF-99249,financeiro
+EXP-000043,2023-02-24,2023-03-11,2023-02,marketing,trade,Marketing — Trade,1565.87,mensal,Araújo da Costa - EI,NF-50281,financeiro
+EXP-000044,2023-02-20,2023-02-22,2023-02,marketing,trade,Marketing — Trade,1530.53,mensal,Barros e Filhos,NF-99602,financeiro
+EXP-000045,2023-02-01,2023-02-05,2023-02,logistica,frete_saida,Logistica — Frete Saida,3158.67,mensal,Azevedo,NF-93330,gestão
+EXP-000046,2023-02-15,2023-02-16,2023-02,logistica,frete_saida,Logistica — Frete Saida,2978.16,mensal,Cardoso Ribeiro - ME,NF-13063,gestão
+EXP-000047,2023-02-25,2023-02-27,2023-02,logistica,armazenagem,Logistica — Armazenagem,1392.02,mensal,da Luz Moura - EI,NF-24105,financeiro
+EXP-000048,2023-02-14,2023-02-23,2023-02,logistica,armazenagem,Logistica — Armazenagem,1631.73,mensal,Cunha,NF-76673,financeiro
+EXP-000049,2023-02-25,2023-03-03,2023-02,tecnologia,plataformas,Tecnologia — Plataformas,4417.14,mensal,Silva das Neves - ME,NF-28997,diretoria
+EXP-000050,2023-02-25,2023-03-09,2023-02,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Macedo,NF-83814,gestão
+EXP-000051,2023-02-26,2023-02-26,2023-02,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Campos,NF-18121,gestão
+EXP-000052,2023-02-18,2023-02-21,2023-02,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Câmara Azevedo Ltda.,NF-47307,gestão
+EXP-000053,2023-02-18,2023-02-27,2023-02,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,681.88,mensal,Pastor - EI,NF-60777,gestão
+EXP-000054,2023-02-27,2023-03-09,2023-02,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,669.69,mensal,Pastor Câmara S/A,NF-44359,financeiro
+EXP-000055,2023-02-09,2023-02-14,2023-02,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Santos e Filhos,NF-28934,gestão
+EXP-000056,2023-02-02,2023-02-15,2023-02,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,da Conceição S/A,NF-91281,financeiro
+EXP-000057,2023-02-08,2023-02-13,2023-02,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Farias S/A,NF-25706,diretoria
+EXP-000058,2023-02-06,2023-02-16,2023-02,outros,varios,Outros — Varios,326.67,mensal,da Mota Rios - ME,NF-28907,gestão
+EXP-000059,2023-02-03,2023-02-16,2023-02,outros,varios,Outros — Varios,320.66,mensal,Nogueira Cardoso e Filhos,NF-66437,diretoria
+EXP-000060,2023-02-17,2023-02-21,2023-02,outros,varios,Outros — Varios,231.34,mensal,da Cruz,NF-37772,gestão
+EXP-000061,2023-03-14,2023-03-29,2023-03,pessoal,administrativo,Pessoal — Administrativo,9568.74,mensal,Jesus,NF-52351,diretoria
+EXP-000062,2023-03-24,2023-04-07,2023-03,pessoal,administrativo,Pessoal — Administrativo,8959.38,mensal,Brito Brito e Filhos,NF-63994,gestão
+EXP-000063,2023-03-12,2023-03-21,2023-03,pessoal,administrativo,Pessoal — Administrativo,9079.39,mensal,Fogaça,NF-99766,gestão
+EXP-000064,2023-03-08,2023-03-22,2023-03,pessoal,comercial,Pessoal — Comercial,6605.69,mensal,Jesus,NF-83009,diretoria
+EXP-000065,2023-03-27,2023-04-07,2023-03,pessoal,comercial,Pessoal — Comercial,7072.77,mensal,Siqueira,NF-53790,gestão
+EXP-000066,2023-03-15,2023-03-18,2023-03,pessoal,logistica,Pessoal — Logistica,3047.3,mensal,Rocha e Filhos,NF-20559,gestão
+EXP-000067,2023-03-20,2023-04-04,2023-03,pessoal,logistica,Pessoal — Logistica,2882.41,mensal,Araújo - ME,NF-27162,diretoria
+EXP-000068,2023-03-23,2023-03-26,2023-03,pessoal,logistica,Pessoal — Logistica,2909.07,mensal,Caldeira,NF-79489,gestão
+EXP-000069,2023-03-01,2023-03-14,2023-03,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Correia Correia - EI,NF-36085,financeiro
+EXP-000070,2023-03-16,2023-03-30,2023-03,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Carvalho,NF-44303,diretoria
+EXP-000071,2023-03-23,2023-04-05,2023-03,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Cirino,NF-68043,gestão
+EXP-000072,2023-03-06,2023-03-18,2023-03,marketing,digital,Marketing — Digital,8193.06,mensal,Martins,NF-78012,financeiro
+EXP-000073,2023-03-14,2023-03-16,2023-03,marketing,trade,Marketing — Trade,2798.02,mensal,Barbosa Macedo - EI,NF-54137,gestão
+EXP-000074,2023-03-20,2023-03-27,2023-03,logistica,frete_saida,Logistica — Frete Saida,2396.31,mensal,Aragão e Filhos,NF-62289,diretoria
+EXP-000075,2023-03-02,2023-03-17,2023-03,logistica,frete_saida,Logistica — Frete Saida,2674.29,mensal,Borges S.A.,NF-61354,financeiro
+EXP-000076,2023-03-02,2023-03-07,2023-03,logistica,frete_saida,Logistica — Frete Saida,1969.03,mensal,Jesus Mendonça - ME,NF-98129,gestão
+EXP-000077,2023-03-27,2023-03-27,2023-03,logistica,armazenagem,Logistica — Armazenagem,2724.44,mensal,Guerra Araújo S.A.,NF-73125,diretoria
+EXP-000078,2023-03-19,2023-03-29,2023-03,tecnologia,plataformas,Tecnologia — Plataformas,1456.04,mensal,Abreu,NF-90892,diretoria
+EXP-000079,2023-03-06,2023-03-14,2023-03,tecnologia,plataformas,Tecnologia — Plataformas,1452.7,mensal,da Luz,NF-21678,gestão
+EXP-000080,2023-03-08,2023-03-12,2023-03,tecnologia,plataformas,Tecnologia — Plataformas,1544.34,mensal,da Paz,NF-46660,diretoria
+EXP-000081,2023-03-24,2023-03-27,2023-03,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Sampaio,NF-26908,financeiro
+EXP-000082,2023-03-22,2023-03-24,2023-03,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Cassiano,NF-47429,gestão
+EXP-000083,2023-03-22,2023-03-24,2023-03,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,da Rocha Cunha S/A,NF-45333,financeiro
+EXP-000084,2023-03-26,2023-04-06,2023-03,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1345.81,mensal,Souza Ltda.,NF-78237,financeiro
+EXP-000085,2023-03-25,2023-04-04,2023-03,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Aragão - EI,NF-99805,financeiro
+EXP-000086,2023-03-09,2023-03-16,2023-03,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Montenegro,NF-50101,financeiro
+EXP-000087,2023-03-05,2023-03-16,2023-03,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Araújo Moraes S/A,NF-17985,financeiro
+EXP-000088,2023-03-17,2023-03-29,2023-03,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Azevedo Peixoto S/A,NF-98151,gestão
+EXP-000089,2023-03-25,2023-03-29,2023-03,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Guerra Campos - EI,NF-14673,diretoria
+EXP-000090,2023-03-02,2023-03-08,2023-03,outros,varios,Outros — Varios,864.81,mensal,Pacheco Peixoto S/A,NF-42924,gestão
+EXP-000091,2023-04-12,2023-04-21,2023-04,pessoal,administrativo,Pessoal — Administrativo,27040.34,mensal,Leão e Filhos,NF-91397,gestão
+EXP-000092,2023-04-23,2023-04-29,2023-04,pessoal,comercial,Pessoal — Comercial,13412.51,mensal,da Luz,NF-47051,gestão
+EXP-000093,2023-04-05,2023-04-12,2023-04,pessoal,logistica,Pessoal — Logistica,4310.24,mensal,Rios Silva Ltda.,NF-56211,financeiro
+EXP-000094,2023-04-15,2023-04-16,2023-04,pessoal,logistica,Pessoal — Logistica,4709.74,mensal,da Luz Gonçalves S.A.,NF-64959,financeiro
+EXP-000095,2023-04-16,2023-04-18,2023-04,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Marques,NF-46049,gestão
+EXP-000096,2023-04-27,2023-05-12,2023-04,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Sá,NF-61915,diretoria
+EXP-000097,2023-04-08,2023-04-20,2023-04,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Albuquerque - ME,NF-90374,financeiro
+EXP-000098,2023-04-27,2023-04-28,2023-04,marketing,digital,Marketing — Digital,5395.37,mensal,Barbosa - EI,NF-40743,financeiro
+EXP-000099,2023-04-10,2023-04-15,2023-04,marketing,digital,Marketing — Digital,4317.71,mensal,Montenegro da Luz S.A.,NF-33879,financeiro
+EXP-000100,2023-04-03,2023-04-17,2023-04,marketing,trade,Marketing — Trade,1456.09,mensal,Azevedo,NF-95737,diretoria
+EXP-000101,2023-04-19,2023-04-23,2023-04,marketing,trade,Marketing — Trade,1201.52,mensal,Freitas da Paz S.A.,NF-20456,gestão
+EXP-000102,2023-04-15,2023-04-16,2023-04,logistica,frete_saida,Logistica — Frete Saida,7567.05,mensal,Nogueira,NF-14721,diretoria
+EXP-000103,2023-04-10,2023-04-20,2023-04,logistica,armazenagem,Logistica — Armazenagem,3291.07,mensal,Pimenta,NF-91482,diretoria
+EXP-000104,2023-04-20,2023-04-20,2023-04,tecnologia,plataformas,Tecnologia — Plataformas,4388.75,mensal,Rios - EI,NF-22397,financeiro
+EXP-000105,2023-04-28,2023-05-01,2023-04,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Ribeiro,NF-73097,financeiro
+EXP-000106,2023-04-27,2023-04-28,2023-04,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Carvalho Ltda.,NF-83797,gestão
+EXP-000107,2023-04-10,2023-04-10,2023-04,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,438.94,mensal,Caldeira e Filhos,NF-30502,diretoria
+EXP-000108,2023-04-25,2023-04-26,2023-04,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,433.79,mensal,da Mata da Paz - EI,NF-94279,gestão
+EXP-000109,2023-04-09,2023-04-15,2023-04,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,425.37,mensal,Silva Fernandes S.A.,NF-21914,diretoria
+EXP-000110,2023-04-03,2023-04-18,2023-04,administrativo,juridico,Administrativo — Juridico,2057.29,trimestral,Montenegro,NF-26080,diretoria
+EXP-000111,2023-04-27,2023-05-10,2023-04,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,da Cunha,NF-33993,diretoria
+EXP-000112,2023-04-21,2023-05-03,2023-04,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Borges e Filhos,NF-21858,diretoria
+EXP-000113,2023-04-14,2023-04-21,2023-04,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,da Mota,NF-65410,gestão
+EXP-000114,2023-04-13,2023-04-21,2023-04,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Abreu Ltda.,NF-97703,diretoria
+EXP-000115,2023-04-21,2023-05-01,2023-04,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Porto da Luz S.A.,NF-94832,financeiro
+EXP-000116,2023-04-10,2023-04-20,2023-04,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Novaes,NF-59239,gestão
+EXP-000117,2023-04-01,2023-04-14,2023-04,outros,varios,Outros — Varios,368.23,mensal,Novais,NF-30973,gestão
+EXP-000118,2023-04-12,2023-04-19,2023-04,outros,varios,Outros — Varios,320.32,mensal,Camargo S/A,NF-60615,gestão
+EXP-000119,2023-05-24,2023-06-08,2023-05,pessoal,administrativo,Pessoal — Administrativo,9407.53,mensal,Nogueira Andrade Ltda.,NF-50556,gestão
+EXP-000120,2023-05-06,2023-05-08,2023-05,pessoal,administrativo,Pessoal — Administrativo,9755.49,mensal,Lopes Cardoso S/A,NF-79283,diretoria
+EXP-000121,2023-05-03,2023-05-05,2023-05,pessoal,administrativo,Pessoal — Administrativo,9484.43,mensal,Fonseca,NF-36435,gestão
+EXP-000122,2023-05-08,2023-05-19,2023-05,pessoal,comercial,Pessoal — Comercial,7417.3,mensal,Fogaça S.A.,NF-47869,financeiro
+EXP-000123,2023-05-04,2023-05-11,2023-05,pessoal,comercial,Pessoal — Comercial,6972.56,mensal,Rios Caldeira Ltda.,NF-41933,financeiro
+EXP-000124,2023-05-23,2023-05-27,2023-05,pessoal,logistica,Pessoal — Logistica,8947.57,mensal,Pinto,NF-74101,gestão
+EXP-000125,2023-05-14,2023-05-23,2023-05,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,da Costa Castro S.A.,NF-51945,diretoria
+EXP-000126,2023-05-17,2023-05-23,2023-05,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Alves,NF-84864,gestão
+EXP-000127,2023-05-21,2023-05-21,2023-05,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Sousa Farias - ME,NF-46583,gestão
+EXP-000128,2023-05-20,2023-05-22,2023-05,marketing,digital,Marketing — Digital,5650.18,mensal,da Mata Castro e Filhos,NF-12372,financeiro
+EXP-000129,2023-05-02,2023-05-08,2023-05,marketing,digital,Marketing — Digital,7166.81,mensal,Garcia S/A,NF-39582,diretoria
+EXP-000130,2023-05-20,2023-05-23,2023-05,marketing,trade,Marketing — Trade,1482.55,mensal,Câmara,NF-63035,financeiro
+EXP-000131,2023-05-17,2023-05-27,2023-05,marketing,trade,Marketing — Trade,1116.79,mensal,Marques Ferreira Ltda.,NF-10193,financeiro
+EXP-000132,2023-05-20,2023-06-03,2023-05,marketing,trade,Marketing — Trade,1686.21,mensal,Câmara Alves e Filhos,NF-62265,diretoria
+EXP-000133,2023-05-25,2023-06-07,2023-05,logistica,frete_saida,Logistica — Frete Saida,6608.58,mensal,Guerra Farias Ltda.,NF-43735,diretoria
+EXP-000134,2023-05-20,2023-05-26,2023-05,logistica,armazenagem,Logistica — Armazenagem,3258.34,mensal,Vargas Ltda.,NF-13902,gestão
+EXP-000135,2023-05-16,2023-05-30,2023-05,tecnologia,plataformas,Tecnologia — Plataformas,2235.52,mensal,Ramos,NF-65794,gestão
+EXP-000136,2023-05-21,2023-05-23,2023-05,tecnologia,plataformas,Tecnologia — Plataformas,2154.78,mensal,Rocha,NF-48140,financeiro
+EXP-000137,2023-05-19,2023-05-23,2023-05,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Alves,NF-61353,financeiro
+EXP-000138,2023-05-02,2023-05-13,2023-05,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,da Luz S.A.,NF-47252,financeiro
+EXP-000139,2023-05-14,2023-05-20,2023-05,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,455.82,mensal,Andrade,NF-55566,diretoria
+EXP-000140,2023-05-09,2023-05-10,2023-05,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,453.9,mensal,Peixoto - ME,NF-83071,gestão
+EXP-000141,2023-05-28,2023-06-07,2023-05,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,443.31,mensal,Siqueira,NF-24008,diretoria
+EXP-000142,2023-05-10,2023-05-12,2023-05,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Lopes,NF-41916,gestão
+EXP-000143,2023-05-18,2023-05-22,2023-05,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Gomes - EI,NF-51417,gestão
+EXP-000144,2023-05-06,2023-05-13,2023-05,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,da Cunha Aparecida e Filhos,NF-96652,diretoria
+EXP-000145,2023-05-11,2023-05-15,2023-05,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Abreu,NF-61431,financeiro
+EXP-000146,2023-05-15,2023-05-21,2023-05,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Fonseca Lopes S/A,NF-42155,gestão
+EXP-000147,2023-05-28,2023-06-09,2023-05,outros,varios,Outros — Varios,773.72,mensal,Pinto,NF-23120,diretoria
+EXP-000148,2023-06-20,2023-06-21,2023-06,pessoal,administrativo,Pessoal — Administrativo,14244.27,mensal,Ribeiro,NF-47019,financeiro
+EXP-000149,2023-06-18,2023-06-20,2023-06,pessoal,administrativo,Pessoal — Administrativo,13325.02,mensal,Silveira Ltda.,NF-16938,financeiro
+EXP-000150,2023-06-07,2023-06-10,2023-06,pessoal,comercial,Pessoal — Comercial,6602.16,mensal,Rios,NF-10349,diretoria
+EXP-000151,2023-06-20,2023-07-01,2023-06,pessoal,comercial,Pessoal — Comercial,6993.96,mensal,Duarte,NF-13662,diretoria
+EXP-000152,2023-06-04,2023-06-12,2023-06,pessoal,logistica,Pessoal — Logistica,4707.59,mensal,Sampaio,NF-10619,gestão
+EXP-000153,2023-06-09,2023-06-22,2023-06,pessoal,logistica,Pessoal — Logistica,4709.85,mensal,Novaes,NF-76328,diretoria
+EXP-000154,2023-06-28,2023-07-11,2023-06,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Correia Leão e Filhos,NF-88136,financeiro
+EXP-000155,2023-06-26,2023-07-03,2023-06,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Rocha,NF-39539,gestão
+EXP-000156,2023-06-05,2023-06-08,2023-06,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Pimenta Nunes Ltda.,NF-17456,gestão
+EXP-000157,2023-06-02,2023-06-03,2023-06,marketing,digital,Marketing — Digital,13591.49,mensal,Novaes,NF-91419,financeiro
+EXP-000158,2023-06-09,2023-06-13,2023-06,marketing,trade,Marketing — Trade,4136.3,mensal,da Rosa Ltda.,NF-25336,gestão
+EXP-000159,2023-06-18,2023-06-29,2023-06,logistica,frete_saida,Logistica — Frete Saida,3429.47,mensal,Lopes Viana - EI,NF-12975,gestão
+EXP-000160,2023-06-17,2023-06-25,2023-06,logistica,frete_saida,Logistica — Frete Saida,2903.52,mensal,Martins,NF-70664,gestão
+EXP-000161,2023-06-20,2023-06-27,2023-06,logistica,armazenagem,Logistica — Armazenagem,3092.94,mensal,Macedo,NF-98041,diretoria
+EXP-000162,2023-06-13,2023-06-13,2023-06,tecnologia,plataformas,Tecnologia — Plataformas,2273.14,mensal,Moraes Melo e Filhos,NF-92419,diretoria
+EXP-000163,2023-06-21,2023-06-24,2023-06,tecnologia,plataformas,Tecnologia — Plataformas,2227.29,mensal,Ribeiro Barros Ltda.,NF-11831,gestão
+EXP-000164,2023-06-02,2023-06-09,2023-06,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Borges,NF-40666,gestão
+EXP-000165,2023-06-24,2023-06-28,2023-06,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Rocha das Neves S.A.,NF-29350,gestão
+EXP-000166,2023-06-18,2023-06-23,2023-06,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1278.47,mensal,Casa Grande Alves S/A,NF-33948,financeiro
+EXP-000167,2023-06-11,2023-06-21,2023-06,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Melo Pimenta S/A,NF-99015,diretoria
+EXP-000168,2023-06-05,2023-06-19,2023-06,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Leão,NF-14867,diretoria
+EXP-000169,2023-06-05,2023-06-15,2023-06,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Silva Sampaio - ME,NF-13687,gestão
+EXP-000170,2023-06-03,2023-06-17,2023-06,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Guerra,NF-29875,financeiro
+EXP-000171,2023-06-14,2023-06-26,2023-06,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Casa Grande Rezende e Filhos,NF-57179,diretoria
+EXP-000172,2023-06-13,2023-06-28,2023-06,outros,varios,Outros — Varios,423.99,mensal,Sá S/A,NF-70974,gestão
+EXP-000173,2023-06-26,2023-07-11,2023-06,outros,varios,Outros — Varios,346.83,mensal,Câmara,NF-26098,financeiro
+EXP-000174,2023-07-17,2023-07-25,2023-07,pessoal,administrativo,Pessoal — Administrativo,29034.97,mensal,Sampaio Moreira - ME,NF-75882,financeiro
+EXP-000175,2023-07-16,2023-07-20,2023-07,pessoal,comercial,Pessoal — Comercial,4488.84,mensal,Novais S.A.,NF-10198,financeiro
+EXP-000176,2023-07-13,2023-07-26,2023-07,pessoal,comercial,Pessoal — Comercial,4712.75,mensal,Marques S.A.,NF-37882,financeiro
+EXP-000177,2023-07-20,2023-07-30,2023-07,pessoal,comercial,Pessoal — Comercial,4815.46,mensal,Rios,NF-66012,gestão
+EXP-000178,2023-07-18,2023-07-30,2023-07,pessoal,logistica,Pessoal — Logistica,2927.85,mensal,Sá,NF-56371,diretoria
+EXP-000179,2023-07-10,2023-07-17,2023-07,pessoal,logistica,Pessoal — Logistica,3062.35,mensal,Pimenta,NF-62521,diretoria
+EXP-000180,2023-07-28,2023-07-28,2023-07,pessoal,logistica,Pessoal — Logistica,2840.77,mensal,Novaes,NF-66562,gestão
+EXP-000181,2023-07-19,2023-08-03,2023-07,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Castro,NF-56927,financeiro
+EXP-000182,2023-07-07,2023-07-09,2023-07,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Machado,NF-49162,gestão
+EXP-000183,2023-07-09,2023-07-15,2023-07,marketing,digital,Marketing — Digital,7050.92,mensal,Sá,NF-83182,gestão
+EXP-000184,2023-07-03,2023-07-14,2023-07,marketing,trade,Marketing — Trade,2897.57,mensal,Porto da Mota - EI,NF-36806,financeiro
+EXP-000185,2023-07-01,2023-07-01,2023-07,logistica,frete_saida,Logistica — Frete Saida,3252.81,mensal,Pires,NF-57238,gestão
+EXP-000186,2023-07-18,2023-07-24,2023-07,logistica,frete_saida,Logistica — Frete Saida,4157.95,mensal,da Mota Macedo S/A,NF-58609,gestão
+EXP-000187,2023-07-10,2023-07-20,2023-07,logistica,armazenagem,Logistica — Armazenagem,3328.76,mensal,da Costa,NF-95545,gestão
+EXP-000188,2023-07-26,2023-07-31,2023-07,tecnologia,plataformas,Tecnologia — Plataformas,2238.29,mensal,Farias,NF-53308,diretoria
+EXP-000189,2023-07-13,2023-07-15,2023-07,tecnologia,plataformas,Tecnologia — Plataformas,2186.01,mensal,Nogueira,NF-46096,financeiro
+EXP-000190,2023-07-15,2023-07-24,2023-07,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Carvalho S.A.,NF-38644,diretoria
+EXP-000191,2023-07-13,2023-07-13,2023-07,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Gomes Sales S.A.,NF-22850,gestão
+EXP-000192,2023-07-24,2023-07-30,2023-07,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Azevedo Leão - ME,NF-34499,diretoria
+EXP-000193,2023-07-22,2023-07-25,2023-07,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,605.8,mensal,Nogueira,NF-60384,gestão
+EXP-000194,2023-07-12,2023-07-19,2023-07,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,706.19,mensal,Leão,NF-94501,diretoria
+EXP-000195,2023-07-25,2023-07-31,2023-07,financeiro,juros,Financeiro — Juros,4134.0,esporadico,Costela - ME,NF-66040,financeiro
+EXP-000196,2023-07-09,2023-07-14,2023-07,administrativo,juridico,Administrativo — Juridico,1752.76,trimestral,Vargas,NF-52999,gestão
+EXP-000197,2023-07-01,2023-07-09,2023-07,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Teixeira - EI,NF-99222,gestão
+EXP-000198,2023-07-23,2023-07-23,2023-07,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Mendes,NF-19038,gestão
+EXP-000199,2023-07-08,2023-07-18,2023-07,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Fogaça Ltda.,NF-83410,gestão
+EXP-000200,2023-07-03,2023-07-12,2023-07,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Leão,NF-40912,gestão
+EXP-000201,2023-07-06,2023-07-14,2023-07,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Mendonça Câmara Ltda.,NF-50306,diretoria
+EXP-000202,2023-07-16,2023-07-25,2023-07,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Mendonça,NF-40687,diretoria
+EXP-000203,2023-07-06,2023-07-16,2023-07,outros,varios,Outros — Varios,255.49,mensal,Gomes Ltda.,NF-87448,diretoria
+EXP-000204,2023-07-21,2023-07-23,2023-07,outros,varios,Outros — Varios,340.58,mensal,Silveira,NF-30667,financeiro
+EXP-000205,2023-07-18,2023-07-30,2023-07,outros,varios,Outros — Varios,388.49,mensal,Martins Cardoso - EI,NF-86377,diretoria
+EXP-000206,2023-08-19,2023-08-26,2023-08,pessoal,administrativo,Pessoal — Administrativo,28912.96,mensal,Gonçalves - EI,NF-92573,gestão
+EXP-000207,2023-08-04,2023-08-05,2023-08,pessoal,comercial,Pessoal — Comercial,14092.89,mensal,Barros e Filhos,NF-67047,financeiro
+EXP-000208,2023-08-13,2023-08-24,2023-08,pessoal,logistica,Pessoal — Logistica,2824.67,mensal,Carvalho,NF-27775,financeiro
+EXP-000209,2023-08-22,2023-08-23,2023-08,pessoal,logistica,Pessoal — Logistica,3007.69,mensal,Cirino,NF-15198,gestão
+EXP-000210,2023-08-15,2023-08-22,2023-08,pessoal,logistica,Pessoal — Logistica,3066.29,mensal,da Luz - ME,NF-54064,gestão
+EXP-000211,2023-08-03,2023-08-09,2023-08,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Cunha,NF-34034,gestão
+EXP-000212,2023-08-12,2023-08-26,2023-08,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Duarte,NF-12984,gestão
+EXP-000213,2023-08-25,2023-09-03,2023-08,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Teixeira,NF-47622,financeiro
+EXP-000214,2023-08-26,2023-09-03,2023-08,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,da Mota,NF-76815,financeiro
+EXP-000215,2023-08-09,2023-08-15,2023-08,marketing,digital,Marketing — Digital,9550.41,mensal,da Cunha,NF-12399,financeiro
+EXP-000216,2023-08-20,2023-08-30,2023-08,marketing,trade,Marketing — Trade,1522.81,mensal,Melo S/A,NF-76101,gestão
+EXP-000217,2023-08-18,2023-08-29,2023-08,marketing,trade,Marketing — Trade,1776.24,mensal,Ferreira S.A.,NF-52713,diretoria
+EXP-000218,2023-08-20,2023-08-27,2023-08,logistica,frete_saida,Logistica — Frete Saida,7915.12,mensal,Vasconcelos e Filhos,NF-89372,diretoria
+EXP-000219,2023-08-06,2023-08-18,2023-08,logistica,armazenagem,Logistica — Armazenagem,1325.94,mensal,Sá S/A,NF-10981,gestão
+EXP-000220,2023-08-12,2023-08-23,2023-08,logistica,armazenagem,Logistica — Armazenagem,1516.23,mensal,Costa Almeida - EI,NF-15825,financeiro
+EXP-000221,2023-08-13,2023-08-18,2023-08,tecnologia,plataformas,Tecnologia — Plataformas,1508.62,mensal,da Costa Cardoso - ME,NF-59114,gestão
+EXP-000222,2023-08-20,2023-08-23,2023-08,tecnologia,plataformas,Tecnologia — Plataformas,1532.13,mensal,Nunes S.A.,NF-44845,gestão
+EXP-000223,2023-08-25,2023-09-01,2023-08,tecnologia,plataformas,Tecnologia — Plataformas,1554.01,mensal,Sampaio,NF-51535,financeiro
+EXP-000224,2023-08-27,2023-09-07,2023-08,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Vargas,NF-88026,diretoria
+EXP-000225,2023-08-14,2023-08-17,2023-08,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Cavalcante,NF-70937,financeiro
+EXP-000226,2023-08-01,2023-08-16,2023-08,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Vasconcelos S.A.,NF-18069,financeiro
+EXP-000227,2023-08-23,2023-09-07,2023-08,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,653.84,mensal,Caldeira,NF-91040,gestão
+EXP-000228,2023-08-27,2023-09-02,2023-08,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,659.84,mensal,das Neves - EI,NF-72156,financeiro
+EXP-000229,2023-08-04,2023-08-15,2023-08,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Gonçalves,NF-95474,financeiro
+EXP-000230,2023-08-16,2023-08-22,2023-08,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Barbosa Pastor e Filhos,NF-71358,diretoria
+EXP-000231,2023-08-23,2023-08-25,2023-08,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Caldeira Sampaio Ltda.,NF-26111,gestão
+EXP-000232,2023-08-09,2023-08-24,2023-08,outros,varios,Outros — Varios,426.89,mensal,Vieira - EI,NF-79982,gestão
+EXP-000233,2023-08-28,2023-08-28,2023-08,outros,varios,Outros — Varios,446.92,mensal,Ferreira - EI,NF-56840,financeiro
+EXP-000234,2023-09-04,2023-09-13,2023-09,pessoal,administrativo,Pessoal — Administrativo,9319.87,mensal,Ribeiro,NF-47935,financeiro
+EXP-000235,2023-09-19,2023-09-19,2023-09,pessoal,administrativo,Pessoal — Administrativo,9522.52,mensal,Azevedo,NF-18000,financeiro
+EXP-000236,2023-09-11,2023-09-21,2023-09,pessoal,administrativo,Pessoal — Administrativo,9549.62,mensal,Albuquerque,NF-77620,diretoria
+EXP-000237,2023-09-05,2023-09-15,2023-09,pessoal,comercial,Pessoal — Comercial,4805.92,mensal,Mendonça,NF-70753,financeiro
+EXP-000238,2023-09-04,2023-09-10,2023-09,pessoal,comercial,Pessoal — Comercial,4984.21,mensal,Lopes Ltda.,NF-12912,financeiro
+EXP-000239,2023-09-06,2023-09-06,2023-09,pessoal,comercial,Pessoal — Comercial,4762.22,mensal,Santos,NF-40350,diretoria
+EXP-000240,2023-09-21,2023-10-02,2023-09,pessoal,logistica,Pessoal — Logistica,9145.16,mensal,Lopes Cavalcanti e Filhos,NF-49515,financeiro
+EXP-000241,2023-09-21,2023-09-28,2023-09,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Pimenta,NF-36344,gestão
+EXP-000242,2023-09-22,2023-09-30,2023-09,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Martins,NF-10022,financeiro
+EXP-000243,2023-09-09,2023-09-23,2023-09,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Siqueira,NF-81185,gestão
+EXP-000244,2023-09-12,2023-09-13,2023-09,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Duarte,NF-64571,financeiro
+EXP-000245,2023-09-24,2023-10-01,2023-09,marketing,digital,Marketing — Digital,4050.55,mensal,Borges da Mota - ME,NF-35950,diretoria
+EXP-000246,2023-09-03,2023-09-15,2023-09,marketing,digital,Marketing — Digital,2595.72,mensal,Sá Martins - EI,NF-56278,gestão
+EXP-000247,2023-09-11,2023-09-13,2023-09,marketing,digital,Marketing — Digital,4059.19,mensal,Fernandes,NF-12770,financeiro
+EXP-000248,2023-09-23,2023-09-25,2023-09,marketing,trade,Marketing — Trade,1339.4,mensal,Monteiro Ltda.,NF-47865,diretoria
+EXP-000249,2023-09-11,2023-09-19,2023-09,marketing,trade,Marketing — Trade,1164.02,mensal,Mendonça Cunha Ltda.,NF-80471,financeiro
+EXP-000250,2023-09-19,2023-09-25,2023-09,marketing,trade,Marketing — Trade,1056.73,mensal,Fernandes,NF-32728,financeiro
+EXP-000251,2023-09-26,2023-10-08,2023-09,logistica,frete_saida,Logistica — Frete Saida,7622.89,mensal,Peixoto,NF-18790,diretoria
+EXP-000252,2023-09-22,2023-10-02,2023-09,logistica,armazenagem,Logistica — Armazenagem,3172.08,mensal,Novais,NF-13897,financeiro
+EXP-000253,2023-09-26,2023-09-28,2023-09,tecnologia,plataformas,Tecnologia — Plataformas,1511.27,mensal,Moreira S.A.,NF-67364,diretoria
+EXP-000254,2023-09-20,2023-10-04,2023-09,tecnologia,plataformas,Tecnologia — Plataformas,1567.57,mensal,da Costa e Filhos,NF-83937,diretoria
+EXP-000255,2023-09-01,2023-09-10,2023-09,tecnologia,plataformas,Tecnologia — Plataformas,1503.23,mensal,Mendonça,NF-71089,gestão
+EXP-000256,2023-09-02,2023-09-02,2023-09,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Sales Melo e Filhos,NF-62479,financeiro
+EXP-000257,2023-09-05,2023-09-15,2023-09,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Machado,NF-15791,financeiro
+EXP-000258,2023-09-15,2023-09-30,2023-09,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Borges Ltda.,NF-53653,gestão
+EXP-000259,2023-09-15,2023-09-24,2023-09,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1301.22,mensal,Guerra Sales S.A.,NF-81619,gestão
+EXP-000260,2023-09-06,2023-09-12,2023-09,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Ribeiro,NF-83784,financeiro
+EXP-000261,2023-09-14,2023-09-14,2023-09,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Melo,NF-50396,gestão
+EXP-000262,2023-09-09,2023-09-24,2023-09,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Lima,NF-12349,diretoria
+EXP-000263,2023-09-25,2023-09-25,2023-09,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Fogaça,NF-64978,diretoria
+EXP-000264,2023-09-02,2023-09-13,2023-09,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,da Mata,NF-74622,gestão
+EXP-000265,2023-09-13,2023-09-23,2023-09,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,da Cunha,NF-26776,diretoria
+EXP-000266,2023-09-19,2023-09-26,2023-09,outros,varios,Outros — Varios,1050.3,mensal,Campos Silveira S.A.,NF-19253,gestão
+EXP-000267,2023-10-06,2023-10-16,2023-10,pessoal,administrativo,Pessoal — Administrativo,28639.78,mensal,Campos,NF-87674,gestão
+EXP-000268,2023-10-05,2023-10-07,2023-10,pessoal,comercial,Pessoal — Comercial,14863.24,mensal,Correia Cunha e Filhos,NF-77554,gestão
+EXP-000269,2023-10-18,2023-11-01,2023-10,pessoal,logistica,Pessoal — Logistica,3089.59,mensal,da Mota,NF-11114,financeiro
+EXP-000270,2023-10-14,2023-10-18,2023-10,pessoal,logistica,Pessoal — Logistica,2917.34,mensal,Brito,NF-99582,diretoria
+EXP-000271,2023-10-22,2023-10-30,2023-10,pessoal,logistica,Pessoal — Logistica,2949.16,mensal,da Rocha da Conceição Ltda.,NF-45209,diretoria
+EXP-000272,2023-10-13,2023-10-26,2023-10,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,da Rosa Albuquerque e Filhos,NF-20796,financeiro
+EXP-000273,2023-10-01,2023-10-08,2023-10,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,da Mota Aparecida S/A,NF-44288,financeiro
+EXP-000274,2023-10-27,2023-11-05,2023-10,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Sampaio,NF-89386,diretoria
+EXP-000275,2023-10-11,2023-10-18,2023-10,marketing,digital,Marketing — Digital,4181.52,mensal,Porto Sá - ME,NF-25970,diretoria
+EXP-000276,2023-10-23,2023-10-24,2023-10,marketing,digital,Marketing — Digital,4293.12,mensal,Albuquerque - EI,NF-28203,gestão
+EXP-000277,2023-10-15,2023-10-24,2023-10,marketing,digital,Marketing — Digital,3011.84,mensal,Melo,NF-41726,gestão
+EXP-000278,2023-10-20,2023-10-23,2023-10,marketing,trade,Marketing — Trade,3029.34,mensal,Macedo,NF-83736,financeiro
+EXP-000279,2023-10-24,2023-11-05,2023-10,logistica,frete_saida,Logistica — Frete Saida,2368.55,mensal,Cirino,NF-56189,diretoria
+EXP-000280,2023-10-11,2023-10-19,2023-10,logistica,frete_saida,Logistica — Frete Saida,2688.85,mensal,da Cunha - ME,NF-80776,financeiro
+EXP-000281,2023-10-14,2023-10-18,2023-10,logistica,frete_saida,Logistica — Frete Saida,2372.2,mensal,Azevedo - ME,NF-17180,gestão
+EXP-000282,2023-10-11,2023-10-15,2023-10,logistica,armazenagem,Logistica — Armazenagem,914.94,mensal,Barbosa,NF-74836,gestão
+EXP-000283,2023-10-11,2023-10-23,2023-10,logistica,armazenagem,Logistica — Armazenagem,900.82,mensal,Cassiano S.A.,NF-17792,diretoria
+EXP-000284,2023-10-06,2023-10-17,2023-10,logistica,armazenagem,Logistica — Armazenagem,930.99,mensal,Barros,NF-17961,gestão
+EXP-000285,2023-10-07,2023-10-14,2023-10,tecnologia,plataformas,Tecnologia — Plataformas,4563.48,mensal,Campos Novais - ME,NF-12820,financeiro
+EXP-000286,2023-10-26,2023-11-08,2023-10,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Vasconcelos Moreira - ME,NF-81685,financeiro
+EXP-000287,2023-10-01,2023-10-11,2023-10,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1178.82,mensal,Macedo,NF-38136,gestão
+EXP-000288,2023-10-26,2023-10-31,2023-10,administrativo,juridico,Administrativo — Juridico,2037.54,trimestral,Pastor,NF-82835,financeiro
+EXP-000289,2023-10-09,2023-10-23,2023-10,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,das Neves,NF-77433,diretoria
+EXP-000290,2023-10-11,2023-10-15,2023-10,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Pimenta e Filhos,NF-39285,financeiro
+EXP-000291,2023-10-13,2023-10-25,2023-10,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Teixeira S.A.,NF-21248,financeiro
+EXP-000292,2023-10-18,2023-10-22,2023-10,outros,varios,Outros — Varios,1132.05,mensal,da Luz Ribeiro S/A,NF-24805,financeiro
+EXP-000293,2023-11-14,2023-11-19,2023-11,pessoal,administrativo,Pessoal — Administrativo,9733.33,mensal,da Costa Cavalcanti - EI,NF-10976,diretoria
+EXP-000294,2023-11-26,2023-11-27,2023-11,pessoal,administrativo,Pessoal — Administrativo,8974.43,mensal,Castro S/A,NF-98076,financeiro
+EXP-000295,2023-11-12,2023-11-22,2023-11,pessoal,administrativo,Pessoal — Administrativo,9769.55,mensal,Machado,NF-18627,financeiro
+EXP-000296,2023-11-19,2023-12-01,2023-11,pessoal,comercial,Pessoal — Comercial,13488.45,mensal,da Rocha,NF-32609,gestão
+EXP-000297,2023-11-06,2023-11-19,2023-11,pessoal,logistica,Pessoal — Logistica,4268.62,mensal,da Conceição Ltda.,NF-48109,gestão
+EXP-000298,2023-11-20,2023-12-05,2023-11,pessoal,logistica,Pessoal — Logistica,4396.95,mensal,Sampaio,NF-74414,financeiro
+EXP-000299,2023-11-01,2023-11-07,2023-11,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Barbosa,NF-48222,diretoria
+EXP-000300,2023-11-13,2023-11-18,2023-11,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,da Luz Viana e Filhos,NF-19470,diretoria
+EXP-000301,2023-11-11,2023-11-15,2023-11,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Lima Camargo - EI,NF-73570,diretoria
+EXP-000302,2023-11-05,2023-11-08,2023-11,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Ramos Cassiano Ltda.,NF-62351,gestão
+EXP-000303,2023-11-19,2023-11-30,2023-11,marketing,digital,Marketing — Digital,10922.0,mensal,Barbosa Araújo S.A.,NF-73568,diretoria
+EXP-000304,2023-11-26,2023-12-05,2023-11,marketing,trade,Marketing — Trade,1518.6,mensal,Peixoto,NF-25026,gestão
+EXP-000305,2023-11-19,2023-11-19,2023-11,marketing,trade,Marketing — Trade,1819.4,mensal,Macedo,NF-42883,diretoria
+EXP-000306,2023-11-09,2023-11-10,2023-11,marketing,trade,Marketing — Trade,1829.31,mensal,Martins e Filhos,NF-66986,diretoria
+EXP-000307,2023-11-24,2023-12-09,2023-11,logistica,frete_saida,Logistica — Frete Saida,3543.97,mensal,Sampaio,NF-78959,gestão
+EXP-000308,2023-11-27,2023-12-01,2023-11,logistica,frete_saida,Logistica — Frete Saida,3417.26,mensal,da Mata,NF-89813,financeiro
+EXP-000309,2023-11-02,2023-11-14,2023-11,logistica,armazenagem,Logistica — Armazenagem,1666.15,mensal,Macedo,NF-66039,diretoria
+EXP-000310,2023-11-03,2023-11-06,2023-11,logistica,armazenagem,Logistica — Armazenagem,1626.0,mensal,Peixoto S/A,NF-79216,diretoria
+EXP-000311,2023-11-28,2023-11-28,2023-11,tecnologia,plataformas,Tecnologia — Plataformas,4314.91,mensal,Sousa,NF-67450,diretoria
+EXP-000312,2023-11-25,2023-11-25,2023-11,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Pereira,NF-11755,diretoria
+EXP-000313,2023-11-03,2023-11-04,2023-11,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Alves,NF-30039,financeiro
+EXP-000314,2023-11-07,2023-11-10,2023-11,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,da Conceição e Filhos,NF-58960,diretoria
+EXP-000315,2023-11-15,2023-11-29,2023-11,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,672.27,mensal,Teixeira e Filhos,NF-51546,financeiro
+EXP-000316,2023-11-04,2023-11-17,2023-11,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,619.91,mensal,Oliveira,NF-35610,diretoria
+EXP-000317,2023-11-21,2023-11-29,2023-11,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Teixeira S.A.,NF-46733,diretoria
+EXP-000318,2023-11-01,2023-11-15,2023-11,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Moreira,NF-66946,diretoria
+EXP-000319,2023-11-10,2023-11-24,2023-11,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,da Mota,NF-79194,gestão
+EXP-000320,2023-11-04,2023-11-14,2023-11,outros,varios,Outros — Varios,264.34,mensal,Pacheco Lopes e Filhos,NF-58682,gestão
+EXP-000321,2023-11-08,2023-11-22,2023-11,outros,varios,Outros — Varios,203.83,mensal,Borges,NF-74373,diretoria
+EXP-000322,2023-11-22,2023-11-25,2023-11,outros,varios,Outros — Varios,328.98,mensal,Ferreira,NF-50293,financeiro
+EXP-000323,2023-12-23,2023-12-23,2023-12,pessoal,administrativo,Pessoal — Administrativo,14523.63,mensal,Farias,NF-75170,gestão
+EXP-000324,2023-12-10,2023-12-14,2023-12,pessoal,administrativo,Pessoal — Administrativo,13726.65,mensal,Rios,NF-30796,financeiro
+EXP-000325,2023-12-01,2023-12-07,2023-12,pessoal,comercial,Pessoal — Comercial,15114.11,mensal,Castro Ltda.,NF-71475,gestão
+EXP-000326,2023-12-26,2024-01-08,2023-12,pessoal,logistica,Pessoal — Logistica,8549.56,mensal,Sales,NF-11594,financeiro
+EXP-000327,2023-12-10,2023-12-20,2023-12,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,da Paz,NF-34461,financeiro
+EXP-000328,2023-12-08,2023-12-12,2023-12,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Teixeira,NF-91700,financeiro
+EXP-000329,2023-12-05,2023-12-06,2023-12,marketing,digital,Marketing — Digital,6101.96,mensal,Marques S/A,NF-44614,financeiro
+EXP-000330,2023-12-16,2023-12-22,2023-12,marketing,digital,Marketing — Digital,7676.76,mensal,da Cunha,NF-85061,diretoria
+EXP-000331,2023-12-17,2023-12-26,2023-12,marketing,trade,Marketing — Trade,4403.38,mensal,Camargo,NF-35192,financeiro
+EXP-000332,2023-12-03,2023-12-12,2023-12,logistica,frete_saida,Logistica — Frete Saida,3517.65,mensal,Moraes,NF-63802,diretoria
+EXP-000333,2023-12-01,2023-12-01,2023-12,logistica,frete_saida,Logistica — Frete Saida,3350.78,mensal,Ribeiro - EI,NF-41944,gestão
+EXP-000334,2023-12-04,2023-12-12,2023-12,logistica,armazenagem,Logistica — Armazenagem,1658.81,mensal,Jesus,NF-88297,financeiro
+EXP-000335,2023-12-21,2023-12-27,2023-12,logistica,armazenagem,Logistica — Armazenagem,1390.9,mensal,Correia - EI,NF-38627,financeiro
+EXP-000336,2023-12-08,2023-12-14,2023-12,tecnologia,plataformas,Tecnologia — Plataformas,4335.45,mensal,Pinto,NF-59982,gestão
+EXP-000337,2023-12-26,2024-01-06,2023-12,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Pires,NF-72030,financeiro
+EXP-000338,2023-12-25,2023-12-26,2023-12,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,457.75,mensal,Teixeira,NF-99086,diretoria
+EXP-000339,2023-12-07,2023-12-09,2023-12,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,437.5,mensal,Costela Ltda.,NF-19317,diretoria
+EXP-000340,2023-12-27,2024-01-09,2023-12,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,402.31,mensal,da Paz Macedo e Filhos,NF-74175,diretoria
+EXP-000341,2023-12-17,2023-12-30,2023-12,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Campos,NF-57041,gestão
+EXP-000342,2023-12-13,2023-12-20,2023-12,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Pires - EI,NF-13427,financeiro
+EXP-000343,2023-12-13,2023-12-15,2023-12,outros,varios,Outros — Varios,209.56,mensal,Santos Castro Ltda.,NF-76043,financeiro
+EXP-000344,2023-12-07,2023-12-08,2023-12,outros,varios,Outros — Varios,326.82,mensal,Novaes - ME,NF-98005,financeiro
+EXP-000345,2023-12-17,2023-12-31,2023-12,outros,varios,Outros — Varios,230.75,mensal,Câmara S/A,NF-86115,diretoria
+EXP-000346,2024-01-13,2024-01-19,2024-01,pessoal,administrativo,Pessoal — Administrativo,28470.27,mensal,Campos,NF-98434,diretoria
+EXP-000347,2024-01-24,2024-02-04,2024-01,pessoal,comercial,Pessoal — Comercial,14317.36,mensal,Monteiro Silva Ltda.,NF-48647,diretoria
+EXP-000348,2024-01-12,2024-01-14,2024-01,pessoal,logistica,Pessoal — Logistica,4324.4,mensal,Leão,NF-53600,gestão
+EXP-000349,2024-01-13,2024-01-20,2024-01,pessoal,logistica,Pessoal — Logistica,4519.44,mensal,Melo,NF-30527,financeiro
+EXP-000350,2024-01-27,2024-01-29,2024-01,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Marques Novaes S.A.,NF-81753,financeiro
+EXP-000351,2024-01-06,2024-01-06,2024-01,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Correia,NF-89765,financeiro
+EXP-000352,2024-01-26,2024-01-28,2024-01,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Azevedo da Mota - ME,NF-71388,diretoria
+EXP-000353,2024-01-01,2024-01-03,2024-01,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Viana,NF-85416,gestão
+EXP-000354,2024-01-17,2024-01-22,2024-01,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Abreu,NF-73894,diretoria
+EXP-000355,2024-01-21,2024-01-24,2024-01,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Silveira,NF-69841,gestão
+EXP-000356,2024-01-13,2024-01-28,2024-01,marketing,digital,Marketing — Digital,5690.71,mensal,Pastor,NF-77993,diretoria
+EXP-000357,2024-01-21,2024-02-04,2024-01,marketing,digital,Marketing — Digital,5487.78,mensal,Cassiano,NF-62002,diretoria
+EXP-000358,2024-01-05,2024-01-07,2024-01,marketing,trade,Marketing — Trade,3866.02,mensal,Nascimento,NF-69045,diretoria
+EXP-000359,2024-01-24,2024-02-02,2024-01,logistica,frete_saida,Logistica — Frete Saida,2209.74,mensal,Ferreira,NF-43844,diretoria
+EXP-000360,2024-01-04,2024-01-15,2024-01,logistica,frete_saida,Logistica — Frete Saida,2340.36,mensal,Novaes,NF-59492,diretoria
+EXP-000361,2024-01-15,2024-01-24,2024-01,logistica,frete_saida,Logistica — Frete Saida,2102.1,mensal,Marques,NF-38093,diretoria
+EXP-000362,2024-01-28,2024-02-02,2024-01,logistica,armazenagem,Logistica — Armazenagem,1432.91,mensal,Correia,NF-48403,gestão
+EXP-000363,2024-01-03,2024-01-09,2024-01,logistica,armazenagem,Logistica — Armazenagem,1379.25,mensal,Oliveira Gomes S.A.,NF-29065,gestão
+EXP-000364,2024-01-17,2024-01-17,2024-01,tecnologia,plataformas,Tecnologia — Plataformas,4320.63,mensal,Aparecida,NF-22428,financeiro
+EXP-000365,2024-01-22,2024-02-02,2024-01,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Souza,NF-56106,gestão
+EXP-000366,2024-01-09,2024-01-17,2024-01,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Santos,NF-51531,diretoria
+EXP-000367,2024-01-07,2024-01-17,2024-01,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Gomes,NF-31760,diretoria
+EXP-000368,2024-01-02,2024-01-16,2024-01,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,606.68,mensal,Monteiro Andrade S.A.,NF-24168,gestão
+EXP-000369,2024-01-24,2024-02-02,2024-01,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,603.0,mensal,Brito,NF-92208,gestão
+EXP-000370,2024-01-04,2024-01-05,2024-01,administrativo,juridico,Administrativo — Juridico,2052.5,trimestral,Brito,NF-44694,diretoria
+EXP-000371,2024-01-12,2024-01-16,2024-01,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Albuquerque,NF-75318,diretoria
+EXP-000372,2024-01-02,2024-01-10,2024-01,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Jesus Rezende S.A.,NF-56638,diretoria
+EXP-000373,2024-01-09,2024-01-19,2024-01,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Melo Ltda.,NF-46676,financeiro
+EXP-000374,2024-01-21,2024-01-26,2024-01,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Pinto,NF-85364,financeiro
+EXP-000375,2024-01-17,2024-01-22,2024-01,outros,varios,Outros — Varios,589.94,mensal,Rezende,NF-65351,diretoria
+EXP-000376,2024-02-05,2024-02-13,2024-02,pessoal,administrativo,Pessoal — Administrativo,28604.47,mensal,Farias e Filhos,NF-69099,financeiro
+EXP-000377,2024-02-19,2024-02-23,2024-02,pessoal,comercial,Pessoal — Comercial,4864.51,mensal,Dias,NF-63134,financeiro
+EXP-000378,2024-02-07,2024-02-21,2024-02,pessoal,comercial,Pessoal — Comercial,4762.89,mensal,Nogueira,NF-14265,gestão
+EXP-000379,2024-02-02,2024-02-13,2024-02,pessoal,comercial,Pessoal — Comercial,5001.03,mensal,Pinto S/A,NF-25890,financeiro
+EXP-000380,2024-02-27,2024-02-29,2024-02,pessoal,logistica,Pessoal — Logistica,8463.53,mensal,Pires Rodrigues Ltda.,NF-99018,financeiro
+EXP-000381,2024-02-05,2024-02-19,2024-02,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Souza Borges - ME,NF-66773,financeiro
+EXP-000382,2024-02-18,2024-02-26,2024-02,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Teixeira e Filhos,NF-29827,diretoria
+EXP-000383,2024-02-23,2024-02-25,2024-02,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Macedo S.A.,NF-21413,gestão
+EXP-000384,2024-02-23,2024-03-03,2024-02,marketing,digital,Marketing — Digital,4940.75,mensal,Alves,NF-33754,financeiro
+EXP-000385,2024-02-08,2024-02-11,2024-02,marketing,digital,Marketing — Digital,3455.41,mensal,Duarte S/A,NF-83446,diretoria
+EXP-000386,2024-02-07,2024-02-09,2024-02,marketing,trade,Marketing — Trade,1377.07,mensal,Fogaça,NF-38440,financeiro
+EXP-000387,2024-02-20,2024-03-06,2024-02,marketing,trade,Marketing — Trade,1067.48,mensal,Lopes,NF-55961,diretoria
+EXP-000388,2024-02-01,2024-02-07,2024-02,marketing,trade,Marketing — Trade,1275.8,mensal,da Cruz Moura - ME,NF-48187,financeiro
+EXP-000389,2024-02-15,2024-02-18,2024-02,logistica,frete_saida,Logistica — Frete Saida,2699.51,mensal,Cavalcante Cavalcanti S/A,NF-80181,financeiro
+EXP-000390,2024-02-09,2024-02-20,2024-02,logistica,frete_saida,Logistica — Frete Saida,2640.44,mensal,Pinto,NF-50442,financeiro
+EXP-000391,2024-02-13,2024-02-17,2024-02,logistica,frete_saida,Logistica — Frete Saida,2008.63,mensal,Monteiro Pacheco S.A.,NF-93686,diretoria
+EXP-000392,2024-02-09,2024-02-12,2024-02,logistica,armazenagem,Logistica — Armazenagem,1071.29,mensal,Martins Porto Ltda.,NF-83563,diretoria
+EXP-000393,2024-02-07,2024-02-10,2024-02,logistica,armazenagem,Logistica — Armazenagem,1045.12,mensal,da Cunha,NF-72758,gestão
+EXP-000394,2024-02-18,2024-02-28,2024-02,logistica,armazenagem,Logistica — Armazenagem,923.5,mensal,Martins Ltda.,NF-27672,gestão
+EXP-000395,2024-02-14,2024-02-23,2024-02,tecnologia,plataformas,Tecnologia — Plataformas,2280.64,mensal,Barbosa Macedo Ltda.,NF-31270,gestão
+EXP-000396,2024-02-09,2024-02-21,2024-02,tecnologia,plataformas,Tecnologia — Plataformas,2205.9,mensal,Porto,NF-82082,diretoria
+EXP-000397,2024-02-19,2024-02-23,2024-02,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Sales,NF-62796,financeiro
+EXP-000398,2024-02-23,2024-03-05,2024-02,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,670.88,mensal,Marques,NF-99940,gestão
+EXP-000399,2024-02-27,2024-03-10,2024-02,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,600.65,mensal,Costa,NF-88675,financeiro
+EXP-000400,2024-02-10,2024-02-15,2024-02,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Mendes,NF-96182,gestão
+EXP-000401,2024-02-02,2024-02-03,2024-02,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,da Costa - ME,NF-39425,gestão
+EXP-000402,2024-02-28,2024-03-02,2024-02,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Oliveira,NF-61423,financeiro
+EXP-000403,2024-02-05,2024-02-07,2024-02,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Sampaio,NF-24193,financeiro
+EXP-000404,2024-02-16,2024-02-17,2024-02,outros,varios,Outros — Varios,632.86,mensal,Almeida,NF-49325,financeiro
+EXP-000405,2024-03-23,2024-04-07,2024-03,pessoal,administrativo,Pessoal — Administrativo,14448.27,mensal,da Mota,NF-81322,gestão
+EXP-000406,2024-03-22,2024-04-06,2024-03,pessoal,administrativo,Pessoal — Administrativo,14156.55,mensal,Nunes e Filhos,NF-40169,diretoria
+EXP-000407,2024-03-17,2024-03-18,2024-03,pessoal,comercial,Pessoal — Comercial,7221.45,mensal,Pereira e Filhos,NF-58972,financeiro
+EXP-000408,2024-03-04,2024-03-18,2024-03,pessoal,comercial,Pessoal — Comercial,7256.06,mensal,da Paz,NF-10490,financeiro
+EXP-000409,2024-03-16,2024-03-23,2024-03,pessoal,logistica,Pessoal — Logistica,9086.14,mensal,Pereira Fogaça S.A.,NF-84069,diretoria
+EXP-000410,2024-03-21,2024-03-23,2024-03,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Pinto da Cunha e Filhos,NF-64557,gestão
+EXP-000411,2024-03-04,2024-03-17,2024-03,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Pires Brito e Filhos,NF-26998,gestão
+EXP-000412,2024-03-17,2024-03-19,2024-03,marketing,digital,Marketing — Digital,6702.78,mensal,das Neves - ME,NF-16788,diretoria
+EXP-000413,2024-03-16,2024-03-19,2024-03,marketing,digital,Marketing — Digital,5379.78,mensal,Pacheco Ltda.,NF-86260,diretoria
+EXP-000414,2024-03-16,2024-03-29,2024-03,marketing,trade,Marketing — Trade,1190.39,mensal,Borges da Rocha Ltda.,NF-74245,gestão
+EXP-000415,2024-03-09,2024-03-11,2024-03,marketing,trade,Marketing — Trade,1444.28,mensal,Cavalcanti,NF-99928,diretoria
+EXP-000416,2024-03-13,2024-03-14,2024-03,marketing,trade,Marketing — Trade,1218.11,mensal,Cardoso Viana - EI,NF-63099,diretoria
+EXP-000417,2024-03-11,2024-03-20,2024-03,logistica,frete_saida,Logistica — Frete Saida,2680.59,mensal,Moura,NF-92780,diretoria
+EXP-000418,2024-03-09,2024-03-13,2024-03,logistica,frete_saida,Logistica — Frete Saida,2616.82,mensal,Cavalcante,NF-47601,diretoria
+EXP-000419,2024-03-02,2024-03-10,2024-03,logistica,frete_saida,Logistica — Frete Saida,2668.78,mensal,Mendes,NF-90820,gestão
+EXP-000420,2024-03-17,2024-03-29,2024-03,logistica,armazenagem,Logistica — Armazenagem,1104.8,mensal,Souza,NF-48196,diretoria
+EXP-000421,2024-03-08,2024-03-21,2024-03,logistica,armazenagem,Logistica — Armazenagem,1015.98,mensal,Camargo,NF-83270,gestão
+EXP-000422,2024-03-10,2024-03-20,2024-03,logistica,armazenagem,Logistica — Armazenagem,1070.96,mensal,Barbosa,NF-23962,financeiro
+EXP-000423,2024-03-11,2024-03-16,2024-03,tecnologia,plataformas,Tecnologia — Plataformas,2243.7,mensal,Sá Câmara e Filhos,NF-74679,diretoria
+EXP-000424,2024-03-14,2024-03-28,2024-03,tecnologia,plataformas,Tecnologia — Plataformas,2274.9,mensal,Novais,NF-41118,financeiro
+EXP-000425,2024-03-12,2024-03-17,2024-03,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Borges,NF-51420,diretoria
+EXP-000426,2024-03-03,2024-03-17,2024-03,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Albuquerque,NF-80657,financeiro
+EXP-000427,2024-03-03,2024-03-05,2024-03,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1313.88,mensal,Nascimento,NF-29832,diretoria
+EXP-000428,2024-03-18,2024-03-31,2024-03,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Marques Ltda.,NF-77818,diretoria
+EXP-000429,2024-03-28,2024-04-09,2024-03,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Pacheco,NF-38127,diretoria
+EXP-000430,2024-03-17,2024-03-27,2024-03,outros,varios,Outros — Varios,392.91,mensal,Porto,NF-64620,gestão
+EXP-000431,2024-03-23,2024-04-07,2024-03,outros,varios,Outros — Varios,529.3,mensal,Caldeira,NF-73547,financeiro
+EXP-000432,2024-04-10,2024-04-21,2024-04,pessoal,administrativo,Pessoal — Administrativo,29318.41,mensal,Melo Alves - EI,NF-95558,diretoria
+EXP-000433,2024-04-27,2024-05-02,2024-04,pessoal,comercial,Pessoal — Comercial,4615.66,mensal,Pimenta,NF-66925,gestão
+EXP-000434,2024-04-08,2024-04-17,2024-04,pessoal,comercial,Pessoal — Comercial,4745.91,mensal,Ramos Azevedo e Filhos,NF-33144,diretoria
+EXP-000435,2024-04-06,2024-04-12,2024-04,pessoal,comercial,Pessoal — Comercial,4607.72,mensal,Sampaio,NF-57128,gestão
+EXP-000436,2024-04-17,2024-05-02,2024-04,pessoal,logistica,Pessoal — Logistica,8638.46,mensal,Rezende,NF-11516,financeiro
+EXP-000437,2024-04-05,2024-04-16,2024-04,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Camargo,NF-20759,financeiro
+EXP-000438,2024-04-13,2024-04-18,2024-04,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Aparecida Andrade Ltda.,NF-72403,financeiro
+EXP-000439,2024-04-18,2024-04-30,2024-04,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Camargo,NF-25389,gestão
+EXP-000440,2024-04-06,2024-04-09,2024-04,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,da Costa - EI,NF-18541,gestão
+EXP-000441,2024-04-01,2024-04-09,2024-04,marketing,digital,Marketing — Digital,4846.0,mensal,Gomes Marques Ltda.,NF-75729,diretoria
+EXP-000442,2024-04-09,2024-04-13,2024-04,marketing,digital,Marketing — Digital,4639.89,mensal,Pastor,NF-64116,financeiro
+EXP-000443,2024-04-21,2024-04-30,2024-04,marketing,trade,Marketing — Trade,1379.03,mensal,Leão Rezende S/A,NF-71297,financeiro
+EXP-000444,2024-04-26,2024-05-01,2024-04,marketing,trade,Marketing — Trade,1218.99,mensal,Pimenta,NF-18989,gestão
+EXP-000445,2024-04-05,2024-04-20,2024-04,logistica,frete_saida,Logistica — Frete Saida,3445.2,mensal,da Mota,NF-59043,diretoria
+EXP-000446,2024-04-21,2024-04-27,2024-04,logistica,frete_saida,Logistica — Frete Saida,3330.37,mensal,Sales Ltda.,NF-41602,gestão
+EXP-000447,2024-04-02,2024-04-02,2024-04,logistica,armazenagem,Logistica — Armazenagem,2668.27,mensal,Macedo Macedo S.A.,NF-65050,financeiro
+EXP-000448,2024-04-28,2024-05-05,2024-04,tecnologia,plataformas,Tecnologia — Plataformas,4517.19,mensal,Brito,NF-66981,gestão
+EXP-000449,2024-04-12,2024-04-16,2024-04,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Nogueira,NF-90425,gestão
+EXP-000450,2024-04-22,2024-05-07,2024-04,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Araújo,NF-47180,gestão
+EXP-000451,2024-04-01,2024-04-06,2024-04,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,da Mota,NF-35451,financeiro
+EXP-000452,2024-04-27,2024-05-08,2024-04,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,469.36,mensal,Campos Marques S/A,NF-30970,financeiro
+EXP-000453,2024-04-11,2024-04-19,2024-04,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,449.01,mensal,Ramos Porto - EI,NF-99339,diretoria
+EXP-000454,2024-04-20,2024-05-03,2024-04,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,476.46,mensal,Aragão Ltda.,NF-40877,gestão
+EXP-000455,2024-04-22,2024-05-01,2024-04,administrativo,juridico,Administrativo — Juridico,1982.28,trimestral,Cardoso Viana - EI,NF-61285,financeiro
+EXP-000456,2024-04-10,2024-04-12,2024-04,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Azevedo Teixeira - EI,NF-61524,gestão
+EXP-000457,2024-04-20,2024-04-23,2024-04,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Pastor Cunha S.A.,NF-51524,diretoria
+EXP-000458,2024-04-14,2024-04-17,2024-04,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Vasconcelos,NF-35363,gestão
+EXP-000459,2024-04-14,2024-04-15,2024-04,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Viana Peixoto S/A,NF-97940,diretoria
+EXP-000460,2024-04-21,2024-05-01,2024-04,outros,varios,Outros — Varios,452.48,mensal,Casa Grande,NF-25262,gestão
+EXP-000461,2024-04-01,2024-04-10,2024-04,outros,varios,Outros — Varios,429.66,mensal,Nogueira da Cunha S.A.,NF-34206,diretoria
+EXP-000462,2024-05-11,2024-05-19,2024-05,pessoal,administrativo,Pessoal — Administrativo,29191.64,mensal,Ribeiro S/A,NF-61562,diretoria
+EXP-000463,2024-05-19,2024-05-25,2024-05,pessoal,comercial,Pessoal — Comercial,4640.04,mensal,Albuquerque Fogaça S.A.,NF-36239,financeiro
+EXP-000464,2024-05-26,2024-06-05,2024-05,pessoal,comercial,Pessoal — Comercial,4849.6,mensal,Almeida,NF-72503,financeiro
+EXP-000465,2024-05-15,2024-05-28,2024-05,pessoal,comercial,Pessoal — Comercial,4762.59,mensal,da Luz Aragão S.A.,NF-81694,gestão
+EXP-000466,2024-05-07,2024-05-15,2024-05,pessoal,logistica,Pessoal — Logistica,4555.99,mensal,Moura,NF-87371,gestão
+EXP-000467,2024-05-26,2024-06-03,2024-05,pessoal,logistica,Pessoal — Logistica,4247.63,mensal,Souza S/A,NF-12880,gestão
+EXP-000468,2024-05-28,2024-06-05,2024-05,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Machado,NF-69273,diretoria
+EXP-000469,2024-05-05,2024-05-20,2024-05,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Moraes,NF-90548,diretoria
+EXP-000470,2024-05-05,2024-05-05,2024-05,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Machado - EI,NF-91380,financeiro
+EXP-000471,2024-05-15,2024-05-17,2024-05,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Pimenta Aparecida e Filhos,NF-48927,financeiro
+EXP-000472,2024-05-01,2024-05-10,2024-05,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Marques,NF-59400,diretoria
+EXP-000473,2024-05-17,2024-06-01,2024-05,marketing,digital,Marketing — Digital,16041.5,mensal,Araújo - ME,NF-88842,gestão
+EXP-000474,2024-05-16,2024-05-23,2024-05,marketing,trade,Marketing — Trade,4845.12,mensal,Lima,NF-66628,financeiro
+EXP-000475,2024-05-17,2024-05-27,2024-05,logistica,frete_saida,Logistica — Frete Saida,2791.72,mensal,Mendonça e Filhos,NF-68985,gestão
+EXP-000476,2024-05-11,2024-05-15,2024-05,logistica,frete_saida,Logistica — Frete Saida,1944.23,mensal,Barbosa,NF-45468,diretoria
+EXP-000477,2024-05-06,2024-05-09,2024-05,logistica,frete_saida,Logistica — Frete Saida,2446.16,mensal,Duarte - EI,NF-61188,diretoria
+EXP-000478,2024-05-21,2024-05-22,2024-05,logistica,armazenagem,Logistica — Armazenagem,3317.13,mensal,Azevedo Cardoso Ltda.,NF-22225,financeiro
+EXP-000479,2024-05-17,2024-05-18,2024-05,tecnologia,plataformas,Tecnologia — Plataformas,1453.92,mensal,Garcia,NF-78843,financeiro
+EXP-000480,2024-05-25,2024-06-04,2024-05,tecnologia,plataformas,Tecnologia — Plataformas,1505.86,mensal,Marques,NF-43029,gestão
+EXP-000481,2024-05-18,2024-05-28,2024-05,tecnologia,plataformas,Tecnologia — Plataformas,1439.38,mensal,Brito,NF-27512,financeiro
+EXP-000482,2024-05-03,2024-05-07,2024-05,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Rezende e Filhos,NF-24745,gestão
+EXP-000483,2024-05-12,2024-05-21,2024-05,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Lopes Machado S.A.,NF-65395,financeiro
+EXP-000484,2024-05-07,2024-05-14,2024-05,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Fernandes,NF-83668,financeiro
+EXP-000485,2024-05-16,2024-05-24,2024-05,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,433.75,mensal,Guerra,NF-29334,diretoria
+EXP-000486,2024-05-14,2024-05-15,2024-05,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,443.33,mensal,Siqueira,NF-23272,diretoria
+EXP-000487,2024-05-15,2024-05-15,2024-05,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,467.56,mensal,Dias - ME,NF-59208,gestão
+EXP-000488,2024-05-26,2024-06-05,2024-05,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Rios,NF-40013,financeiro
+EXP-000489,2024-05-15,2024-05-16,2024-05,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Freitas,NF-99844,financeiro
+EXP-000490,2024-05-20,2024-05-27,2024-05,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Rodrigues Melo S/A,NF-59697,financeiro
+EXP-000491,2024-05-25,2024-06-07,2024-05,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Barros S/A,NF-54459,financeiro
+EXP-000492,2024-05-09,2024-05-15,2024-05,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Brito,NF-63474,diretoria
+EXP-000493,2024-05-14,2024-05-19,2024-05,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Cardoso,NF-84503,diretoria
+EXP-000494,2024-05-23,2024-05-24,2024-05,outros,varios,Outros — Varios,246.39,mensal,Pastor - EI,NF-55198,diretoria
+EXP-000495,2024-05-23,2024-06-02,2024-05,outros,varios,Outros — Varios,327.12,mensal,Rios,NF-33613,financeiro
+EXP-000496,2024-05-19,2024-05-20,2024-05,outros,varios,Outros — Varios,290.11,mensal,Jesus Ltda.,NF-86377,financeiro
+EXP-000497,2024-06-16,2024-06-19,2024-06,pessoal,administrativo,Pessoal — Administrativo,13509.67,mensal,Silveira,NF-34473,diretoria
+EXP-000498,2024-06-18,2024-06-26,2024-06,pessoal,administrativo,Pessoal — Administrativo,13695.89,mensal,da Paz - EI,NF-11479,diretoria
+EXP-000499,2024-06-14,2024-06-15,2024-06,pessoal,comercial,Pessoal — Comercial,6938.84,mensal,Fogaça,NF-76495,gestão
+EXP-000500,2024-06-08,2024-06-08,2024-06,pessoal,comercial,Pessoal — Comercial,7403.69,mensal,Oliveira - EI,NF-67380,financeiro
+EXP-000501,2024-06-09,2024-06-22,2024-06,pessoal,logistica,Pessoal — Logistica,4366.65,mensal,Cassiano Ribeiro - ME,NF-16279,financeiro
+EXP-000502,2024-06-24,2024-07-09,2024-06,pessoal,logistica,Pessoal — Logistica,4507.1,mensal,Caldeira Ferreira - EI,NF-86185,diretoria
+EXP-000503,2024-06-09,2024-06-10,2024-06,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Camargo,NF-93149,diretoria
+EXP-000504,2024-06-26,2024-07-09,2024-06,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Oliveira,NF-77643,diretoria
+EXP-000505,2024-06-25,2024-07-07,2024-06,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Lima Novais - EI,NF-45359,diretoria
+EXP-000506,2024-06-23,2024-06-27,2024-06,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Pereira e Filhos,NF-51035,diretoria
+EXP-000507,2024-06-19,2024-06-26,2024-06,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Alves,NF-42356,diretoria
+EXP-000508,2024-06-18,2024-06-30,2024-06,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,da Mata Sampaio Ltda.,NF-84422,diretoria
+EXP-000509,2024-06-14,2024-06-15,2024-06,marketing,digital,Marketing — Digital,4777.27,mensal,Ferreira,NF-10657,financeiro
+EXP-000510,2024-06-06,2024-06-06,2024-06,marketing,digital,Marketing — Digital,6303.21,mensal,Cirino S.A.,NF-97207,gestão
+EXP-000511,2024-06-14,2024-06-22,2024-06,marketing,trade,Marketing — Trade,1692.66,mensal,Azevedo,NF-61135,diretoria
+EXP-000512,2024-06-07,2024-06-09,2024-06,marketing,trade,Marketing — Trade,2263.71,mensal,Sousa Porto S/A,NF-75232,gestão
+EXP-000513,2024-06-23,2024-07-03,2024-06,logistica,frete_saida,Logistica — Frete Saida,2871.63,mensal,Souza - EI,NF-84126,diretoria
+EXP-000514,2024-06-05,2024-06-20,2024-06,logistica,frete_saida,Logistica — Frete Saida,4040.59,mensal,Garcia Leão - ME,NF-44625,financeiro
+EXP-000515,2024-06-08,2024-06-17,2024-06,logistica,armazenagem,Logistica — Armazenagem,2839.97,mensal,Castro,NF-96379,financeiro
+EXP-000516,2024-06-18,2024-06-25,2024-06,tecnologia,plataformas,Tecnologia — Plataformas,4510.58,mensal,das Neves,NF-47688,financeiro
+EXP-000517,2024-06-28,2024-07-13,2024-06,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Vasconcelos,NF-13071,financeiro
+EXP-000518,2024-06-15,2024-06-25,2024-06,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Aragão S.A.,NF-34502,diretoria
+EXP-000519,2024-06-28,2024-07-11,2024-06,tecnologia,erp_gateway,Tecnologia — Erp Gateway,733.33,mensal,Sá Pinto S/A,NF-77195,diretoria
+EXP-000520,2024-06-12,2024-06-19,2024-06,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,697.61,mensal,da Mata - ME,NF-88264,financeiro
+EXP-000521,2024-06-13,2024-06-16,2024-06,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,660.51,mensal,Mendonça,NF-34746,gestão
+EXP-000522,2024-06-26,2024-07-03,2024-06,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Leão,NF-40818,financeiro
+EXP-000523,2024-06-16,2024-06-28,2024-06,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Cunha,NF-62001,financeiro
+EXP-000524,2024-06-13,2024-06-19,2024-06,administrativo,contabilidade,Administrativo — Contabilidade,833.33,mensal,Ferreira - ME,NF-91603,gestão
+EXP-000525,2024-06-17,2024-06-20,2024-06,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,da Paz e Filhos,NF-25786,diretoria
+EXP-000526,2024-06-05,2024-06-09,2024-06,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,Moura,NF-54320,financeiro
+EXP-000527,2024-06-26,2024-07-06,2024-06,outros,varios,Outros — Varios,999.96,mensal,Aparecida,NF-73034,diretoria
+EXP-000528,2024-07-04,2024-07-15,2024-07,pessoal,administrativo,Pessoal — Administrativo,9048.89,mensal,Gonçalves Peixoto S/A,NF-37370,financeiro
+EXP-000529,2024-07-10,2024-07-23,2024-07,pessoal,administrativo,Pessoal — Administrativo,8885.32,mensal,Costela Ltda.,NF-93087,financeiro
+EXP-000530,2024-07-21,2024-08-02,2024-07,pessoal,administrativo,Pessoal — Administrativo,9172.56,mensal,Vargas Carvalho Ltda.,NF-39737,gestão
+EXP-000531,2024-07-04,2024-07-04,2024-07,pessoal,comercial,Pessoal — Comercial,4752.18,mensal,Duarte,NF-79015,diretoria
+EXP-000532,2024-07-12,2024-07-20,2024-07,pessoal,comercial,Pessoal — Comercial,4622.01,mensal,Abreu - ME,NF-32534,financeiro
+EXP-000533,2024-07-25,2024-08-06,2024-07,pessoal,comercial,Pessoal — Comercial,4905.81,mensal,Cavalcanti,NF-10301,gestão
+EXP-000534,2024-07-20,2024-07-27,2024-07,pessoal,logistica,Pessoal — Logistica,3028.14,mensal,Garcia Nascimento e Filhos,NF-89984,gestão
+EXP-000535,2024-07-28,2024-08-09,2024-07,pessoal,logistica,Pessoal — Logistica,2857.48,mensal,Montenegro Novais e Filhos,NF-16973,financeiro
+EXP-000536,2024-07-23,2024-08-07,2024-07,pessoal,logistica,Pessoal — Logistica,3169.48,mensal,Barbosa,NF-81789,gestão
+EXP-000537,2024-07-09,2024-07-15,2024-07,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Sousa,NF-54389,financeiro
+EXP-000538,2024-07-13,2024-07-16,2024-07,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Lopes S/A,NF-73847,diretoria
+EXP-000539,2024-07-06,2024-07-12,2024-07,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Barbosa,NF-76962,financeiro
+EXP-000540,2024-07-15,2024-07-26,2024-07,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Oliveira,NF-19486,financeiro
+EXP-000541,2024-07-10,2024-07-23,2024-07,marketing,digital,Marketing — Digital,10579.05,mensal,Oliveira,NF-54497,diretoria
+EXP-000542,2024-07-14,2024-07-17,2024-07,marketing,trade,Marketing — Trade,1269.04,mensal,Santos,NF-11571,financeiro
+EXP-000543,2024-07-06,2024-07-07,2024-07,marketing,trade,Marketing — Trade,1085.69,mensal,da Rocha,NF-28005,financeiro
+EXP-000544,2024-07-09,2024-07-09,2024-07,marketing,trade,Marketing — Trade,907.45,mensal,Guerra S/A,NF-22984,diretoria
+EXP-000545,2024-07-22,2024-07-27,2024-07,logistica,frete_saida,Logistica — Frete Saida,6615.06,mensal,Cavalcante,NF-83291,financeiro
+EXP-000546,2024-07-20,2024-07-30,2024-07,logistica,armazenagem,Logistica — Armazenagem,1338.02,mensal,Sales,NF-50406,financeiro
+EXP-000547,2024-07-03,2024-07-07,2024-07,logistica,armazenagem,Logistica — Armazenagem,1443.15,mensal,Borges,NF-44066,gestão
+EXP-000548,2024-07-16,2024-07-24,2024-07,tecnologia,plataformas,Tecnologia — Plataformas,2302.34,mensal,Caldeira,NF-11237,gestão
+EXP-000549,2024-07-01,2024-07-10,2024-07,tecnologia,plataformas,Tecnologia — Plataformas,2326.91,mensal,Lopes Pastor - ME,NF-10843,diretoria
+EXP-000550,2024-07-15,2024-07-18,2024-07,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Gonçalves Ltda.,NF-47314,financeiro
+EXP-000551,2024-07-19,2024-07-30,2024-07,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1311.67,mensal,Câmara,NF-79305,diretoria
+EXP-000552,2024-07-27,2024-08-03,2024-07,administrativo,juridico,Administrativo — Juridico,1664.47,trimestral,Vasconcelos,NF-64967,financeiro
+EXP-000553,2024-07-23,2024-07-30,2024-07,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Barbosa Moraes e Filhos,NF-44650,financeiro
+EXP-000554,2024-07-12,2024-07-14,2024-07,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Moura - EI,NF-36472,financeiro
+EXP-000555,2024-07-12,2024-07-26,2024-07,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Vasconcelos Ferreira Ltda.,NF-34398,financeiro
+EXP-000556,2024-07-12,2024-07-18,2024-07,outros,varios,Outros — Varios,206.23,mensal,da Costa Caldeira S.A.,NF-34529,diretoria
+EXP-000557,2024-07-19,2024-07-22,2024-07,outros,varios,Outros — Varios,286.04,mensal,Costa,NF-76551,financeiro
+EXP-000558,2024-07-08,2024-07-15,2024-07,outros,varios,Outros — Varios,326.24,mensal,Pereira Cassiano e Filhos,NF-26165,diretoria
+EXP-000559,2024-08-04,2024-08-17,2024-08,pessoal,administrativo,Pessoal — Administrativo,14239.67,mensal,Cavalcanti e Filhos,NF-27957,gestão
+EXP-000560,2024-08-19,2024-09-01,2024-08,pessoal,administrativo,Pessoal — Administrativo,13994.86,mensal,Martins,NF-82157,financeiro
+EXP-000561,2024-08-15,2024-08-25,2024-08,pessoal,comercial,Pessoal — Comercial,4368.7,mensal,Rodrigues,NF-50336,gestão
+EXP-000562,2024-08-03,2024-08-12,2024-08,pessoal,comercial,Pessoal — Comercial,4628.95,mensal,Pires,NF-48633,financeiro
+EXP-000563,2024-08-21,2024-08-28,2024-08,pessoal,comercial,Pessoal — Comercial,4976.06,mensal,Cassiano,NF-38780,diretoria
+EXP-000564,2024-08-22,2024-08-25,2024-08,pessoal,logistica,Pessoal — Logistica,8992.03,mensal,Azevedo,NF-51308,diretoria
+EXP-000565,2024-08-05,2024-08-11,2024-08,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Macedo,NF-97995,gestão
+EXP-000566,2024-08-10,2024-08-25,2024-08,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Vieira,NF-50190,diretoria
+EXP-000567,2024-08-16,2024-08-20,2024-08,marketing,digital,Marketing — Digital,3351.94,mensal,Pastor,NF-74724,financeiro
+EXP-000568,2024-08-18,2024-08-29,2024-08,marketing,digital,Marketing — Digital,3339.31,mensal,Fogaça - EI,NF-56443,gestão
+EXP-000569,2024-08-03,2024-08-10,2024-08,marketing,digital,Marketing — Digital,2966.89,mensal,das Neves - ME,NF-71224,financeiro
+EXP-000570,2024-08-23,2024-09-03,2024-08,marketing,trade,Marketing — Trade,3333.11,mensal,Andrade,NF-86184,diretoria
+EXP-000571,2024-08-15,2024-08-15,2024-08,logistica,frete_saida,Logistica — Frete Saida,2353.26,mensal,Freitas Ltda.,NF-83246,diretoria
+EXP-000572,2024-08-17,2024-08-26,2024-08,logistica,frete_saida,Logistica — Frete Saida,2094.78,mensal,Ramos S/A,NF-23123,diretoria
+EXP-000573,2024-08-17,2024-08-30,2024-08,logistica,frete_saida,Logistica — Frete Saida,2414.87,mensal,Martins,NF-71773,gestão
+EXP-000574,2024-08-26,2024-09-02,2024-08,logistica,armazenagem,Logistica — Armazenagem,1018.38,mensal,Machado - EI,NF-90721,financeiro
+EXP-000575,2024-08-14,2024-08-21,2024-08,logistica,armazenagem,Logistica — Armazenagem,963.52,mensal,Duarte Pereira - ME,NF-84849,diretoria
+EXP-000576,2024-08-24,2024-09-03,2024-08,logistica,armazenagem,Logistica — Armazenagem,990.43,mensal,Araújo Machado S/A,NF-74452,financeiro
+EXP-000577,2024-08-05,2024-08-06,2024-08,tecnologia,plataformas,Tecnologia — Plataformas,4670.77,mensal,Silva,NF-36992,diretoria
+EXP-000578,2024-08-04,2024-08-05,2024-08,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Montenegro e Filhos,NF-49626,gestão
+EXP-000579,2024-08-04,2024-08-12,2024-08,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1364.52,mensal,Aparecida da Cruz e Filhos,NF-64709,gestão
+EXP-000580,2024-08-18,2024-08-25,2024-08,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Macedo,NF-41959,financeiro
+EXP-000581,2024-08-17,2024-08-30,2024-08,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Fonseca Freitas Ltda.,NF-36070,gestão
+EXP-000582,2024-08-10,2024-08-14,2024-08,outros,varios,Outros — Varios,387.26,mensal,Jesus,NF-38205,diretoria
+EXP-000583,2024-08-23,2024-08-27,2024-08,outros,varios,Outros — Varios,339.62,mensal,Rocha,NF-46540,gestão
+EXP-000584,2024-08-07,2024-08-22,2024-08,outros,varios,Outros — Varios,331.33,mensal,Vieira e Filhos,NF-24643,financeiro
+EXP-000585,2024-09-04,2024-09-18,2024-09,pessoal,administrativo,Pessoal — Administrativo,14524.34,mensal,Azevedo,NF-62158,financeiro
+EXP-000586,2024-09-26,2024-10-06,2024-09,pessoal,administrativo,Pessoal — Administrativo,14042.86,mensal,Brito,NF-23788,financeiro
+EXP-000587,2024-09-21,2024-09-21,2024-09,pessoal,comercial,Pessoal — Comercial,13766.43,mensal,da Paz,NF-19262,diretoria
+EXP-000588,2024-09-27,2024-09-28,2024-09,pessoal,logistica,Pessoal — Logistica,4505.38,mensal,Silveira,NF-45037,financeiro
+EXP-000589,2024-09-08,2024-09-22,2024-09,pessoal,logistica,Pessoal — Logistica,4397.76,mensal,Farias Barros - EI,NF-96173,diretoria
+EXP-000590,2024-09-04,2024-09-07,2024-09,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Ferreira das Neves e Filhos,NF-79244,gestão
+EXP-000591,2024-09-14,2024-09-15,2024-09,aluguel,estoque,Aluguel — Estoque,3000.0,mensal,Cardoso,NF-46250,financeiro
+EXP-000592,2024-09-19,2024-09-21,2024-09,marketing,digital,Marketing — Digital,2505.85,mensal,das Neves - EI,NF-24130,diretoria
+EXP-000593,2024-09-21,2024-09-25,2024-09,marketing,digital,Marketing — Digital,3527.27,mensal,Ramos,NF-19165,gestão
+EXP-000594,2024-09-19,2024-09-22,2024-09,marketing,digital,Marketing — Digital,2523.77,mensal,Cardoso,NF-32230,financeiro
+EXP-000595,2024-09-05,2024-09-13,2024-09,marketing,trade,Marketing — Trade,1363.8,mensal,Ramos e Filhos,NF-47662,financeiro
+EXP-000596,2024-09-17,2024-09-27,2024-09,marketing,trade,Marketing — Trade,1893.79,mensal,Moraes,NF-12736,financeiro
+EXP-000597,2024-09-14,2024-09-27,2024-09,logistica,frete_saida,Logistica — Frete Saida,1898.94,mensal,Almeida,NF-48226,gestão
+EXP-000598,2024-09-03,2024-09-13,2024-09,logistica,frete_saida,Logistica — Frete Saida,1977.25,mensal,das Neves,NF-12399,gestão
+EXP-000599,2024-09-20,2024-10-01,2024-09,logistica,frete_saida,Logistica — Frete Saida,2520.25,mensal,Cunha Fernandes - ME,NF-74812,gestão
+EXP-000600,2024-09-13,2024-09-15,2024-09,logistica,armazenagem,Logistica — Armazenagem,1340.13,mensal,Câmara Carvalho S.A.,NF-19697,gestão
+EXP-000601,2024-09-08,2024-09-16,2024-09,logistica,armazenagem,Logistica — Armazenagem,1332.23,mensal,da Rocha S/A,NF-39113,financeiro
+EXP-000602,2024-09-08,2024-09-13,2024-09,tecnologia,plataformas,Tecnologia — Plataformas,2169.65,mensal,Ribeiro Ltda.,NF-88787,financeiro
+EXP-000603,2024-09-27,2024-09-30,2024-09,tecnologia,plataformas,Tecnologia — Plataformas,2346.53,mensal,Peixoto Garcia S.A.,NF-43972,gestão
+EXP-000604,2024-09-20,2024-09-24,2024-09,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Cirino Sales - EI,NF-77804,gestão
+EXP-000605,2024-09-25,2024-09-30,2024-09,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,1209.68,mensal,Silveira Macedo S/A,NF-37240,diretoria
+EXP-000606,2024-09-08,2024-09-16,2024-09,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Fonseca,NF-72690,financeiro
+EXP-000607,2024-09-25,2024-10-08,2024-09,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Macedo Pimenta Ltda.,NF-31800,gestão
+EXP-000608,2024-09-27,2024-10-11,2024-09,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,da Conceição,NF-23651,gestão
+EXP-000609,2024-09-25,2024-10-02,2024-09,depreciacao,ativos,Depreciacao — Ativos,1100.0,mensal,das Neves Viana - ME,NF-84941,financeiro
+EXP-000610,2024-09-11,2024-09-16,2024-09,outros,varios,Outros — Varios,487.43,mensal,Freitas Rocha - EI,NF-68173,gestão
+EXP-000611,2024-09-15,2024-09-21,2024-09,outros,varios,Outros — Varios,409.11,mensal,Martins,NF-10716,gestão
+EXP-000612,2024-10-23,2024-10-27,2024-10,pessoal,administrativo,Pessoal — Administrativo,13942.08,mensal,Vasconcelos,NF-98525,diretoria
+EXP-000613,2024-10-01,2024-10-08,2024-10,pessoal,administrativo,Pessoal — Administrativo,14380.24,mensal,Montenegro,NF-61904,diretoria
+EXP-000614,2024-10-25,2024-10-26,2024-10,pessoal,comercial,Pessoal — Comercial,4472.1,mensal,Castro,NF-11625,gestão
+EXP-000615,2024-10-06,2024-10-17,2024-10,pessoal,comercial,Pessoal — Comercial,4665.81,mensal,Pereira Carvalho Ltda.,NF-96729,diretoria
+EXP-000616,2024-10-01,2024-10-14,2024-10,pessoal,comercial,Pessoal — Comercial,4973.04,mensal,Ramos - ME,NF-45279,gestão
+EXP-000617,2024-10-22,2024-11-03,2024-10,pessoal,logistica,Pessoal — Logistica,3027.6,mensal,Novaes,NF-97723,diretoria
+EXP-000618,2024-10-14,2024-10-25,2024-10,pessoal,logistica,Pessoal — Logistica,2934.86,mensal,Silva - EI,NF-18466,diretoria
+EXP-000619,2024-10-05,2024-10-20,2024-10,pessoal,logistica,Pessoal — Logistica,2835.68,mensal,da Paz S/A,NF-75437,gestão
+EXP-000620,2024-10-25,2024-11-01,2024-10,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,da Mata Machado - EI,NF-30583,gestão
+EXP-000621,2024-10-04,2024-10-08,2024-10,aluguel,operacional,Aluguel — Operacional,3250.0,mensal,Lopes Borges S.A.,NF-36630,gestão
+EXP-000622,2024-10-11,2024-10-21,2024-10,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Ferreira,NF-67069,diretoria
+EXP-000623,2024-10-09,2024-10-12,2024-10,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Leão S/A,NF-44134,gestão
+EXP-000624,2024-10-01,2024-10-01,2024-10,marketing,digital,Marketing — Digital,11111.91,mensal,Montenegro,NF-19483,gestão
+EXP-000625,2024-10-20,2024-10-20,2024-10,marketing,trade,Marketing — Trade,1722.95,mensal,da Costa,NF-38670,gestão
+EXP-000626,2024-10-06,2024-10-14,2024-10,marketing,trade,Marketing — Trade,2306.7,mensal,Barros,NF-11634,financeiro
+EXP-000627,2024-10-19,2024-10-24,2024-10,logistica,frete_saida,Logistica — Frete Saida,6665.82,mensal,Câmara,NF-28105,gestão
+EXP-000628,2024-10-08,2024-10-17,2024-10,logistica,armazenagem,Logistica — Armazenagem,929.98,mensal,Dias S/A,NF-36392,diretoria
+EXP-000629,2024-10-09,2024-10-18,2024-10,logistica,armazenagem,Logistica — Armazenagem,1071.01,mensal,Vieira,NF-58431,diretoria
+EXP-000630,2024-10-14,2024-10-20,2024-10,logistica,armazenagem,Logistica — Armazenagem,905.18,mensal,Carvalho Andrade Ltda.,NF-13060,gestão
+EXP-000631,2024-10-02,2024-10-14,2024-10,tecnologia,plataformas,Tecnologia — Plataformas,1486.36,mensal,Sampaio,NF-65888,gestão
+EXP-000632,2024-10-11,2024-10-12,2024-10,tecnologia,plataformas,Tecnologia — Plataformas,1447.5,mensal,Teixeira Santos - ME,NF-47605,gestão
+EXP-000633,2024-10-09,2024-10-09,2024-10,tecnologia,plataformas,Tecnologia — Plataformas,1535.28,mensal,Pimenta,NF-61293,diretoria
+EXP-000634,2024-10-10,2024-10-23,2024-10,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Barros S/A,NF-58340,financeiro
+EXP-000635,2024-10-11,2024-10-25,2024-10,tecnologia,erp_gateway,Tecnologia — Erp Gateway,1100.0,mensal,Cunha,NF-22323,diretoria
+EXP-000636,2024-10-19,2024-10-23,2024-10,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,464.99,mensal,Novaes Siqueira - EI,NF-40388,financeiro
+EXP-000637,2024-10-01,2024-10-05,2024-10,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,445.93,mensal,Camargo,NF-78909,gestão
+EXP-000638,2024-10-07,2024-10-15,2024-10,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,424.72,mensal,da Costa,NF-85775,gestão
+EXP-000639,2024-10-18,2024-10-26,2024-10,administrativo,juridico,Administrativo — Juridico,1976.36,trimestral,Campos,NF-48891,diretoria
+EXP-000640,2024-10-25,2024-10-26,2024-10,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,da Costa - ME,NF-72299,diretoria
+EXP-000641,2024-10-27,2024-11-01,2024-10,administrativo,contabilidade,Administrativo — Contabilidade,1250.0,mensal,Azevedo,NF-90996,gestão
+EXP-000642,2024-10-05,2024-10-05,2024-10,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Monteiro - EI,NF-35721,gestão
+EXP-000643,2024-10-16,2024-10-24,2024-10,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Pires - EI,NF-45126,financeiro
+EXP-000644,2024-10-02,2024-10-02,2024-10,depreciacao,ativos,Depreciacao — Ativos,733.33,mensal,Silva Casa Grande Ltda.,NF-18494,financeiro
+EXP-000645,2024-10-14,2024-10-29,2024-10,outros,varios,Outros — Varios,526.46,mensal,Abreu,NF-72138,gestão
+EXP-000646,2024-10-02,2024-10-09,2024-10,outros,varios,Outros — Varios,325.95,mensal,da Costa,NF-66654,diretoria
+EXP-000647,2024-11-13,2024-11-22,2024-11,pessoal,administrativo,Pessoal — Administrativo,9253.5,mensal,Cirino,NF-49514,financeiro
+EXP-000648,2024-11-22,2024-11-26,2024-11,pessoal,administrativo,Pessoal — Administrativo,9614.21,mensal,Moura Ltda.,NF-25073,diretoria
+EXP-000649,2024-11-19,2024-12-02,2024-11,pessoal,administrativo,Pessoal — Administrativo,8946.18,mensal,Moura - EI,NF-99574,gestão
+EXP-000650,2024-11-26,2024-12-01,2024-11,pessoal,comercial,Pessoal — Comercial,4727.18,mensal,Gomes - ME,NF-75541,diretoria
+EXP-000651,2024-11-19,2024-12-04,2024-11,pessoal,comercial,Pessoal — Comercial,4785.9,mensal,Porto - ME,NF-86475,diretoria
+EXP-000652,2024-11-27,2024-12-04,2024-11,pessoal,comercial,Pessoal — Comercial,4931.98,mensal,da Cunha,NF-48457,gestão
+EXP-000653,2024-11-20,2024-12-03,2024-11,pessoal,logistica,Pessoal — Logistica,4571.02,mensal,Fogaça S/A,NF-34604,diretoria
+EXP-000654,2024-11-16,2024-11-20,2024-11,pessoal,logistica,Pessoal — Logistica,4404.96,mensal,da Costa,NF-26851,gestão
+EXP-000655,2024-11-24,2024-11-26,2024-11,aluguel,operacional,Aluguel — Operacional,6500.0,mensal,Vargas - EI,NF-51400,financeiro
+EXP-000656,2024-11-13,2024-11-14,2024-11,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Carvalho,NF-57206,gestão
+EXP-000657,2024-11-15,2024-11-24,2024-11,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Fogaça - EI,NF-81688,financeiro
+EXP-000658,2024-11-11,2024-11-25,2024-11,aluguel,estoque,Aluguel — Estoque,1000.0,mensal,Ramos,NF-51809,gestão
+EXP-000659,2024-11-01,2024-11-02,2024-11,marketing,digital,Marketing — Digital,11210.2,mensal,Vasconcelos Rodrigues - ME,NF-20136,gestão
+EXP-000660,2024-11-10,2024-11-19,2024-11,marketing,trade,Marketing — Trade,2977.7,mensal,Pires,NF-70221,diretoria
+EXP-000661,2024-11-03,2024-11-08,2024-11,marketing,trade,Marketing — Trade,2943.22,mensal,Carvalho Azevedo e Filhos,NF-44225,diretoria
+EXP-000662,2024-11-08,2024-11-23,2024-11,logistica,frete_saida,Logistica — Frete Saida,3678.16,mensal,Andrade,NF-98936,gestão
+EXP-000663,2024-11-23,2024-12-01,2024-11,logistica,frete_saida,Logistica — Frete Saida,3455.31,mensal,Costa,NF-76979,financeiro
+EXP-000664,2024-11-02,2024-11-06,2024-11,logistica,armazenagem,Logistica — Armazenagem,1056.25,mensal,Vieira S.A.,NF-10540,gestão
+EXP-000665,2024-11-08,2024-11-13,2024-11,logistica,armazenagem,Logistica — Armazenagem,943.87,mensal,Dias Ltda.,NF-77961,diretoria
+EXP-000666,2024-11-28,2024-11-29,2024-11,logistica,armazenagem,Logistica — Armazenagem,1052.44,mensal,Nogueira,NF-67910,gestão
+EXP-000667,2024-11-28,2024-12-10,2024-11,tecnologia,plataformas,Tecnologia — Plataformas,1572.28,mensal,da Cunha,NF-18894,diretoria
+EXP-000668,2024-11-17,2024-11-24,2024-11,tecnologia,plataformas,Tecnologia — Plataformas,1524.82,mensal,Sá e Filhos,NF-29649,gestão
+EXP-000669,2024-11-27,2024-12-01,2024-11,tecnologia,plataformas,Tecnologia — Plataformas,1454.72,mensal,da Paz Fogaça S/A,NF-58899,gestão
+EXP-000670,2024-11-20,2024-11-23,2024-11,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,da Mata,NF-58272,gestão
+EXP-000671,2024-11-15,2024-11-22,2024-11,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,649.33,mensal,Freitas - ME,NF-30810,financeiro
+EXP-000672,2024-11-05,2024-11-10,2024-11,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,659.31,mensal,Souza,NF-41783,gestão
+EXP-000673,2024-11-03,2024-11-17,2024-11,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Gomes,NF-57042,diretoria
+EXP-000674,2024-11-13,2024-11-19,2024-11,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Cirino,NF-31900,financeiro
+EXP-000675,2024-11-19,2024-11-21,2024-11,outros,varios,Outros — Varios,338.03,mensal,Sales,NF-27831,diretoria
+EXP-000676,2024-11-05,2024-11-11,2024-11,outros,varios,Outros — Varios,293.62,mensal,Freitas,NF-50746,gestão
+EXP-000677,2024-11-07,2024-11-08,2024-11,outros,varios,Outros — Varios,258.28,mensal,Barros,NF-64811,financeiro
+EXP-000678,2024-12-17,2024-12-25,2024-12,pessoal,administrativo,Pessoal — Administrativo,9432.93,mensal,Barros,NF-53491,diretoria
+EXP-000679,2024-12-23,2025-01-07,2024-12,pessoal,administrativo,Pessoal — Administrativo,9063.64,mensal,Pereira,NF-28831,diretoria
+EXP-000680,2024-12-17,2024-12-28,2024-12,pessoal,administrativo,Pessoal — Administrativo,9611.08,mensal,Nogueira da Rocha Ltda.,NF-72858,financeiro
+EXP-000681,2024-12-05,2024-12-11,2024-12,pessoal,comercial,Pessoal — Comercial,14037.36,mensal,Barros Ltda.,NF-96661,gestão
+EXP-000682,2024-12-27,2025-01-05,2024-12,pessoal,logistica,Pessoal — Logistica,2916.04,mensal,das Neves,NF-83084,diretoria
+EXP-000683,2024-12-16,2024-12-30,2024-12,pessoal,logistica,Pessoal — Logistica,3007.53,mensal,Pereira,NF-20420,diretoria
+EXP-000684,2024-12-13,2024-12-28,2024-12,pessoal,logistica,Pessoal — Logistica,3040.74,mensal,Cavalcante,NF-40633,financeiro
+EXP-000685,2024-12-19,2024-12-20,2024-12,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Ferreira,NF-91627,financeiro
+EXP-000686,2024-12-04,2024-12-11,2024-12,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Aparecida,NF-67993,financeiro
+EXP-000687,2024-12-04,2024-12-10,2024-12,aluguel,operacional,Aluguel — Operacional,2166.67,mensal,Pimenta,NF-30488,diretoria
+EXP-000688,2024-12-01,2024-12-07,2024-12,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,da Mota,NF-25312,diretoria
+EXP-000689,2024-12-19,2024-12-28,2024-12,aluguel,estoque,Aluguel — Estoque,1500.0,mensal,Barbosa e Filhos,NF-93713,gestão
+EXP-000690,2024-12-26,2025-01-03,2024-12,marketing,digital,Marketing — Digital,5201.58,mensal,Fonseca,NF-41688,diretoria
+EXP-000691,2024-12-03,2024-12-06,2024-12,marketing,digital,Marketing — Digital,5308.44,mensal,Alves Casa Grande - EI,NF-57241,gestão
+EXP-000692,2024-12-21,2025-01-03,2024-12,marketing,trade,Marketing — Trade,1629.52,mensal,Andrade,NF-98519,diretoria
+EXP-000693,2024-12-03,2024-12-14,2024-12,marketing,trade,Marketing — Trade,1991.43,mensal,Azevedo da Costa e Filhos,NF-17974,financeiro
+EXP-000694,2024-12-17,2024-12-29,2024-12,logistica,frete_saida,Logistica — Frete Saida,6349.99,mensal,Fonseca,NF-44174,diretoria
+EXP-000695,2024-12-18,2024-12-22,2024-12,logistica,armazenagem,Logistica — Armazenagem,930.69,mensal,Nunes,NF-21267,gestão
+EXP-000696,2024-12-10,2024-12-13,2024-12,logistica,armazenagem,Logistica — Armazenagem,920.4,mensal,Pereira S.A.,NF-57834,financeiro
+EXP-000697,2024-12-16,2024-12-29,2024-12,logistica,armazenagem,Logistica — Armazenagem,1102.09,mensal,Freitas,NF-42255,gestão
+EXP-000698,2024-12-03,2024-12-03,2024-12,tecnologia,plataformas,Tecnologia — Plataformas,2252.32,mensal,Macedo,NF-81913,diretoria
+EXP-000699,2024-12-10,2024-12-10,2024-12,tecnologia,plataformas,Tecnologia — Plataformas,2144.01,mensal,Oliveira S.A.,NF-92671,financeiro
+EXP-000700,2024-12-07,2024-12-11,2024-12,tecnologia,erp_gateway,Tecnologia — Erp Gateway,2200.0,mensal,Gonçalves,NF-57013,financeiro
+EXP-000701,2024-12-11,2024-12-21,2024-12,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,705.56,mensal,Rezende,NF-87328,gestão
+EXP-000702,2024-12-24,2025-01-04,2024-12,financeiro,taxas_bancarias,Financeiro — Taxas Bancarias,678.3,mensal,da Cruz,NF-35679,gestão
+EXP-000703,2024-12-25,2025-01-04,2024-12,administrativo,contabilidade,Administrativo — Contabilidade,2500.0,mensal,Alves e Filhos,NF-64252,financeiro
+EXP-000704,2024-12-21,2025-01-03,2024-12,depreciacao,ativos,Depreciacao — Ativos,2200.0,mensal,Monteiro Moreira - ME,NF-48512,financeiro
+EXP-000705,2024-12-20,2024-12-25,2024-12,outros,varios,Outros — Varios,648.47,mensal,da Luz Ltda.,NF-28630,diretoria
