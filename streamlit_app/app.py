@@ -11,7 +11,7 @@ DRE gerencial completa (22 linhas), margem de contribuição, EBITDA,
 capital de giro (NCG, ciclo financeiro, PMR por canal), aging de
 estoque, top SKUs e ROI da transformação operacional.
 
-Autor: Vinicius Borges — github.com/Vborges95/finance-ops-analytics
+
 """
 
 import os
@@ -379,6 +379,5 @@ with tab_roi:
 
 st.markdown("---")
 st.caption(
-    "Finance Ops & Analytics · case de portfólio · dados simulados · "
-    "números idênticos ao dashboard React · github.com/Vborges95/finance-ops-analytics"
+    "Ops & Analytics · case de portfólio · dados simulados · "
 )
